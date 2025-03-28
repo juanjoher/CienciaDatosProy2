@@ -1,0 +1,1001 @@
+ID,Marca,Modelo,Año,Kilometraje,Consumo (L/100km),Tipo de Combustible,Región,Emisiones CO2 (g/km),Fecha de Registro,Estado del Vehículo,Precio (USD)
+1,Ford,Sentra,2018,95529.0,3.76,Eléctrico,Europa,14,,Usado,46387
+2,Toyota,Sentra,2004,58227.0,12.98,Diésel,Sudamérica,120,20/06/2002,Usado,36100
+3,Nissan,C-Class,1997,85603.0,10.19,Híbrido,Sudamérica,133,2016-08-04,Nuevo,32574
+4,BMW,C-Class,2010,57338.0,4.38,Gasolina,Norteamérica,156,,Nuevo,20292
+5,BMW,Camaro,2008,61654.0,4.13,Híbrido,Europa,79,,Chatarra,38028
+6,Honda,Civic,2012,37800.0,,Eléctrico,Sudamérica,123,,Usado,58965
+7,Ford,Camaro,2000,52303.0,11.03,Eléctrico,Oceanía,82,"Jan 17, 2022",Usado,38805
+8,Volkswagen,Golf,2000,39449.0,12.95,Híbrido,África,130,,Chatarra,34960
+9,Ford,Camaro,2013,50723.0,13.55,Diésel,Norteamérica,84,02/06/2003,Usado,37210
+10,Mercedes,Model 3,2013,111609.0,9.86,Híbrido,África,103,21/06/2015,Chatarra,26718
+11,Hyundai,Model 3,1992,51518.0,9.21,Eléctrico,Norteamérica,80,,Nuevo,26623
+12,Toyota,Golf,2011,,8.17,Híbrido,Asia,146,07/04/2019,Chatarra,26495
+13,Toyota,Golf,1991,94799.0,6.8,Gasolina,Asia,154,2017-10-05,Nuevo,24250
+14,Ford,Elantra,2013,85545.0,,Gasolina,Europa,110,24/11/2002,Chatarra,26475
+15,BMW,Camaro,2019,54249.0,12.29,Diésel,Sudamérica,121,,Nuevo,26428
+16,BMW,Model 3,1991,101009.0,,Híbrido,África,62,,Nuevo,27553
+17,Volkswagen,X5,2010,62730.0,13.71,Híbrido,Sudamérica,108,,Chatarra,27273
+18,Mercedes,X5,2022,83660.0,8.32,Híbrido,Asia,117,,Chatarra,32430
+19,Toyota,C-Class,2001,156802.0,10.29,Híbrido,África,224,2012-08-08,Chatarra,30787
+20,Volkswagen,Elantra,2011,77118.0,10.58,Diésel,Oceanía,75,"Sep 23, 2009",Chatarra,31673
+21,BMW,X5,2014,114478.0,10.1,Eléctrico,Europa,178,,Nuevo,45222
+22,Volkswagen,Elantra,2016,,11.43,Diésel,Sudamérica,159,,Usado,30767
+23,Hyundai,Corolla,2017,78950.0,5.85,Eléctrico,Norteamérica,131,"Sep 10, 2019",Chatarra,52108
+24,BMW,Model 3,2005,133124.0,9.15,Eléctrico,Norteamérica,190,2012-08-28,Chatarra,33526
+25,Chevrolet,Camaro,2004,61190.0,4.25,Eléctrico,África,134,"Feb 14, 2020",Chatarra,25527
+26,Mercedes,Elantra,1992,134373.0,7.61,Híbrido,Norteamérica,135,,Chatarra,43495
+27,Nissan,Elantra,1996,101232.0,8.85,Diésel,Norteamérica,117,27/09/2019,Usado,29204
+28,Toyota,Civic,2010,63125.0,10.83,Eléctrico,Asia,168,,Usado,6063
+29,Honda,Camaro,1998,,14.41,Gasolina,Europa,163,,Chatarra,29959
+30,Hyundai,Corolla,2007,109176.0,10.21,Eléctrico,Norteamérica,94,2021-09-02,Usado,27508
+31,toyota,Civic,1993,98654.0,11.92,Diésel,Norteamérica,67,,Usado,46065
+32,Nissan,Golf,2014,32893.0,9.08,Híbrido,Sudamérica,111,,Chatarra,21024
+33,Honda,C-Class,2003,58185.0,10.61,Gasolina,África,87,,Chatarra,26673
+34,BMW,Model 3,1998,,,Eléctrico,Asia,117,20/07/2022,Chatarra,42676
+35,Tesla,Focus,2015,,6.05,Híbrido,Oceanía,169,,Usado,33944
+36,Ford,Camaro,1991,98620.0,7.34,Diésel,Oceanía,101,30/08/2005,Nuevo,28285
+37,Ford,Focus,2009,85331.0,8.67,Diésel,África,118,,Chatarra,22435
+38,Hyundai,Golf,2017,39939.0,3.55,Gasolina,Sudamérica,122,2019-10-25,Chatarra,33517
+39,Ford,Camaro,1996,,4.68,Gasolina,Sudamérica,153,2019-03-18,Usado,29706
+40,Tesla,Corolla,1997,98317.0,6.32,Eléctrico,Oceanía,30,2016-12-13,Chatarra,22321
+41,Tesla,Civic,2003,96793.0,14.66,Híbrido,Sudamérica,95,"Feb 23, 2004",Chatarra,22841
+42,Mercedes,Elantra,2006,112423.0,6.98,Híbrido,Norteamérica,128,,Chatarra,21855
+43,Nissan,Civic,1993,105017.0,8.78,Diésel,Oceanía,168,"Sep 28, 2002",Usado,20074
+44,Toyota,Focus,1991,93775.0,5.35,Diésel,África,100,,Usado,39340
+45,Chevrolet,Camaro,1995,,10.33,Eléctrico,África,44,"Nov 21, 2018",Nuevo,37993
+46,Volkswagen,Sentra,1993,30171.0,,Eléctrico,África,144,"Mar 06, 2023",Chatarra,39356
+47,Ford,Model 3,2018,92888.0,5.48,Diésel,Europa,94,"Oct 30, 2013",Nuevo,30044
+48,Hyundai,C-Class,2007,86230.0,9.2,Diésel,Asia,72,"Apr 03, 2012",Chatarra,27573
+49,Ford,Elantra,2015,88147.0,3.07,Híbrido,Norteamérica,95,2001-04-23,Usado,27756
+50,Volkswagen,Focus,2023,41697.0,3.09,Híbrido,Asia,112,,Nuevo,40211
+51,FORD,Model 3,1999,47568.0,5.63,Híbrido,Norteamérica,95,06/04/2003,Nuevo,11798
+52,Mercedes,Golf,2003,111594.0,3.44,Eléctrico,África,31,,Nuevo,24855
+53,Tesla,Elantra,2020,78813.0,4.3,Híbrido,Europa,155,28/09/2000,Nuevo,21126
+54,Mercedes,Model 3,2004,100445.0,7.07,Gasolina,Europa,170,2022-10-26,Usado,43598
+55,BMW,Camaro,1997,80849.0,12.63,Gasolina,África,146,,Chatarra,25225
+56,Ford,Golf,2003,80892.0,9.86,Híbrido,Asia,74,"Jun 13, 2016",Nuevo,13640
+57,Toyota,Corolla,2012,108148.0,9.15,Híbrido,Sudamérica,111,,Chatarra,32234
+58,BMW,C-Class,2010,64518.0,,Diésel,África,119,"Feb 14, 2009",Nuevo,26298
+59,Nissan,Focus,2005,82883.0,14.18,Diésel,Oceanía,143,26/02/2002,Chatarra,24430
+60,Ford,X5,2007,66131.0,7.76,Eléctrico,Oceanía,146,"Jan 13, 2017",Usado,23399
+61,BMW,Sentra,2013,66965.0,4.05,Gasolina,Oceanía,90,14/09/2001,Usado,23005
+62,Ford,X5,2015,70724.0,10.4,Gasolina,Oceanía,123,,Nuevo,37085
+63,Hyundai,Focus,2014,86664.0,4.37,Eléctrico,Norteamérica,138,2010-01-24,Usado,32237
+64,Nissan,Elantra,2018,65637.0,7.14,Híbrido,Asia,178,16/01/2007,Usado,28020
+65,Chevrolet,Focus,2004,117672.0,,Híbrido,Oceanía,148,,Chatarra,19017
+66,Tesla,Focus,1990,53161.0,13.49,Eléctrico,Sudamérica,151,12/10/2013,Chatarra,28311
+67,Honda,Camaro,2014,74393.0,8.92,Gasolina,Oceanía,123,,Nuevo,32606
+68,Tesla,Civic,1996,66808.0,11.43,Gasolina,Europa,176,,Nuevo,32986
+69,Tesla,Sentra,1998,123409.0,14.91,Híbrido,Norteamérica,136,25/11/2012,Chatarra,31608
+70,BMW,Corolla,2013,85896.0,4.58,Diésel,Europa,85,,Nuevo,20774
+71,bmw,Corolla,1990,110955.0,6.3,Eléctrico,Norteamérica,176,"Aug 16, 2020",Chatarra,5968
+72,Ford,Model 3,1997,35433.0,7.73,Eléctrico,Sudamérica,147,,Usado,47996
+73,Mercedes,Corolla,2013,88011.0,8.06,Híbrido,Norteamérica,102,2003-02-14,Usado,16903
+74,Honda,Sentra,2000,106688.0,7.93,Eléctrico,Sudamérica,100,"Sep 09, 2015",Nuevo,10350
+75,Volkswagen,Model 3,2006,82468.0,13.89,Gasolina,África,131,"Jun 09, 2020",Usado,31305
+76,BMW,Model 3,1997,111964.0,11.57,Híbrido,África,138,29/03/2012,Usado,12914
+77,Honda,Elantra,2022,64481.0,10.29,Gasolina,Norteamérica,127,,Chatarra,21952
+78,Chevrolet,Civic,1994,122280.0,6.71,Diésel,Asia,132,,Chatarra,35488
+79,Hyundai,X5,2017,148966.0,12.89,Eléctrico,Oceanía,187,,Usado,47726
+80,Nissan,Golf,1996,,14.46,Eléctrico,Oceanía,162,2022-08-17,Nuevo,33875
+81,Volkswagen,Elantra,1998,66634.0,12.85,Gasolina,Oceanía,127,,Nuevo,25608
+82,BMW,C-Class,1997,123601.0,3.02,Híbrido,Oceanía,157,,Chatarra,29485
+83,Tesla,Civic,2001,127387.0,10.64,Híbrido,Europa,78,01/03/2002,Usado,11914
+84,Toyota,Civic,2023,64314.0,3.61,Eléctrico,Norteamérica,135,2003-03-20,Usado,25492
+85,BMW,Civic,2022,67394.0,6.09,Gasolina,Norteamérica,192,2000-06-27,Usado,25502
+86,Toyota,Focus,2012,71546.0,3.71,Diésel,Oceanía,111,"Feb 22, 2006",Chatarra,31533
+87,Tesla,C-Class,2013,,10.25,Gasolina,Europa,86,,Chatarra,49421
+88,Hyundai,Elantra,2011,52440.0,11.24,Híbrido,Oceanía,93,,Chatarra,10632
+89,Nissan,C-Class,2016,49875.0,4.37,Eléctrico,Norteamérica,76,"Jan 23, 2017",Nuevo,25923
+90,Ford,X5,1990,56966.0,7.61,Eléctrico,Europa,88,,Nuevo,11664
+91,nISSan,Camaro,2003,78959.0,8.47,Eléctrico,Sudamérica,105,2020-10-23,Nuevo,24966
+92,Mercedes,C-Class,1992,87026.0,7.43,Diésel,Asia,63,,Usado,21353
+93,Tesla,Civic,1990,126515.0,4.45,Diésel,África,120,,Usado,15056
+94,BMW,X5,1994,50049.0,8.03,Híbrido,África,156,,Chatarra,39130
+95,Chevrolet,Camaro,2015,,12.01,Gasolina,Oceanía,83,11/06/2008,Usado,32556
+96,Hyundai,Sentra,2003,73580.0,3.85,Gasolina,Asia,180,2002-01-01,Usado,37958
+97,Chevrolet,Camaro,2016,,3.96,Gasolina,Europa,140,"Feb 03, 2003",Nuevo,24683
+98,Honda,Sentra,1998,,,Diésel,Asia,161,2004-05-24,Chatarra,29292
+99,Nissan,Corolla,2004,46318.0,14.3,Eléctrico,Europa,93,,Nuevo,45946
+100,Honda,Camaro,2004,91472.0,11.02,Híbrido,Oceanía,154,,Usado,29972
+101,BMW,Sentra,2015,84993.0,11.14,Híbrido,Asia,76,,Nuevo,38079
+102,Volkswagen,Golf,2002,94773.0,7.34,Diésel,Oceanía,155,09/06/2019,Chatarra,23825
+103,Volkswagen,Civic,2021,88675.0,10.12,Diésel,Norteamérica,126,,Usado,37160
+104,Nissan,Focus,2021,153659.0,3.12,Eléctrico,Norteamérica,142,,Chatarra,24510
+105,Mercedes,Camaro,1993,60867.0,10.63,Eléctrico,Asia,72,,Usado,11035
+106,Hyundai,Model 3,2019,64070.0,13.96,Diésel,Sudamérica,84,12/04/2009,Usado,29924
+107,Mercedes,C-Class,2012,61305.0,10.35,Híbrido,Asia,143,,Usado,25296
+108,Hyundai,Sentra,2004,63335.0,13.48,Eléctrico,África,82,,Chatarra,13752
+109,Tesla,Elantra,2018,60878.0,11.69,Eléctrico,Norteamérica,138,2006-03-13,Nuevo,31914
+110,BMW,Sentra,2002,115670.0,4.45,Híbrido,Asia,65,,Chatarra,21064
+111,Honda,Camaro,2021,122615.0,13.83,Eléctrico,Oceanía,153,"Jun 29, 2006",Usado,60926
+112,Volkswagen,Sentra,1996,62877.0,3.8,Híbrido,África,70,22/10/2011,Chatarra,15355
+113,Chevrolet,X5,2011,55029.0,9.41,Gasolina,Oceanía,142,,Chatarra,17870
+114,Ford,Elantra,2017,94142.0,4.71,Eléctrico,Norteamérica,145,,Chatarra,38695
+115,Toyota,Camaro,1991,63433.0,3.14,Eléctrico,Sudamérica,92,2019-05-29,Usado,28669
+116,Ford,Focus,1995,98987.0,8.06,Gasolina,Sudamérica,143,2015-04-18,Chatarra,38492
+117,Honda,X5,2017,86087.0,6.54,Híbrido,África,130,,Chatarra,33803
+118,Honda,Elantra,2017,34527.0,8.83,Eléctrico,Asia,98,10/09/2015,Nuevo,24176
+119,Hyundai,C-Class,2009,126425.0,9.93,Gasolina,Norteamérica,79,,Nuevo,16209
+120,Mercedes,Model 3,2019,133876.0,3.52,Híbrido,Sudamérica,41,13/03/2003,Chatarra,40710
+121,Ford,C-Class,2000,61616.0,4.48,Eléctrico,África,133,,Chatarra,17115
+122,Hyundai,Sentra,2017,68368.0,9.7,Diésel,Europa,57,2013-12-27,Usado,35589
+123,Hyundai,Sentra,2014,88575.0,7.12,Gasolina,Asia,123,,Usado,39189
+124,Mercedes,Corolla,2022,90033.0,11.75,Híbrido,Europa,109,,Nuevo,28730
+125,Chevrolet,Elantra,1990,99756.0,10.83,Diésel,Asia,147,,Nuevo,26958
+126,Volkswagen,Sentra,2016,140306.0,13.15,Híbrido,Norteamérica,107,,Usado,20162
+127,Nissan,Corolla,2002,74691.0,11.31,Diésel,África,106,,Nuevo,34627
+128,Volkswagen,C-Class,1992,56051.0,8.16,Diésel,Oceanía,149,,Usado,-459
+129,Toyota,Corolla,1995,,11.08,Gasolina,Oceanía,133,,Usado,37157
+130,Ford,C-Class,1997,58072.0,6.3,Gasolina,Norteamérica,132,"Oct 27, 2002",Chatarra,31194
+131,Volkswagen,Camaro,2016,79006.0,6.68,Diésel,Europa,138,,Chatarra,27771
+132,Nissan,Sentra,1998,133836.0,12.47,Gasolina,Oceanía,58,06/12/2010,Nuevo,32423
+133,Tesla,X5,2022,64471.0,,Híbrido,África,150,"Jul 02, 2002",Chatarra,16264
+134,Ford,C-Class,2013,86713.0,12.58,Eléctrico,Norteamérica,144,,Chatarra,5870
+135,Nissan,Model 3,2004,79507.0,12.87,Híbrido,Norteamérica,79,"Dec 21, 2005",Usado,34685
+136,Hyundai,X5,2021,115651.0,13.29,Diésel,Norteamérica,110,,Nuevo,43165
+137,Honda,X5,2021,,14.0,Híbrido,Europa,118,,Chatarra,12605
+138,Chevrolet,C-Class,2013,64073.0,8.17,Diésel,Norteamérica,114,2004-01-02,Nuevo,19475
+139,Toyota,Sentra,2001,65316.0,6.83,Híbrido,Sudamérica,133,,Usado,37523
+140,Nissan,Civic,1991,111324.0,9.99,Híbrido,Asia,177,,Chatarra,33588
+141,Volkswagen,Focus,1992,100456.0,7.45,Gasolina,Sudamérica,163,,Usado,59631
+142,Honda,Corolla,2006,135401.0,10.21,Diésel,Europa,67,,Chatarra,40756
+143,Volkswagen,Sentra,1991,97517.0,11.47,Diésel,Europa,144,2019-05-31,Nuevo,38354
+144,Ford,Camaro,1991,69221.0,11.26,Eléctrico,Norteamérica,173,"Apr 09, 2021",Usado,22362
+145,Nissan,Corolla,2017,97719.0,7.49,Híbrido,África,135,,Usado,35248
+146,Volkswagen,C-Class,2012,113261.0,5.0,Híbrido,Oceanía,163,,Nuevo,44954
+147,Mercedes,Model 3,2021,104614.0,8.17,Eléctrico,Oceanía,200,,Usado,28356
+148,BMW,Civic,2022,95218.0,4.71,Diésel,Oceanía,160,"Mar 25, 2020",Nuevo,28827
+149,Honda,Focus,1990,112000.0,13.68,Híbrido,Sudamérica,129,2013-06-23,Usado,31413
+150,Tesla,Sentra,2008,115078.0,7.15,Eléctrico,Europa,161,23/04/2017,Usado,23355
+151,Honda,Model 3,1991,121464.0,4.85,Eléctrico,Asia,125,,Usado,32689
+152,Volkswagen,Elantra,2015,99461.0,,Eléctrico,Europa,120,,Nuevo,32439
+153,Volkswagen,Civic,2021,74986.0,10.75,Híbrido,Sudamérica,105,"Mar 06, 2014",Chatarra,44799
+154,Toyota,X5,1995,84401.0,10.64,Diésel,Oceanía,182,2010-11-12,Usado,28106
+155,Mercedes,Civic,2021,,7.09,Diésel,Asia,87,09/06/2007,Nuevo,36747
+156,Tesla,Golf,1993,55491.0,,Eléctrico,Asia,181,09/07/2000,Nuevo,28404
+157,Chevrolet,Model 3,2000,91060.0,7.92,Eléctrico,Norteamérica,139,,Usado,36397
+158,Toyota,Golf,2006,68199.0,,Diésel,África,64,,Nuevo,27499
+159,Ford,Golf,2013,80862.0,11.13,Eléctrico,Asia,134,2001-01-13,Nuevo,35734
+160,Tesla,Sentra,1994,118353.0,10.27,Eléctrico,Norteamérica,35,,Nuevo,37282
+161,Nissan,Civic,2023,85732.0,7.38,Diésel,África,145,"Jun 20, 2017",Usado,19333
+162,BMW,Sentra,1995,81393.0,5.61,Híbrido,Oceanía,155,07/09/2001,Chatarra,41023
+163,Toyota,Camaro,2011,39204.0,14.86,Eléctrico,Norteamérica,96,"May 19, 2006",Nuevo,28335
+164,BMW,Sentra,2000,102387.0,8.45,Híbrido,Europa,124,,Usado,25302
+165,Mercedes,Model 3,2005,99364.0,11.26,Eléctrico,Europa,198,,Chatarra,22899
+166,Ford,Focus,2022,144897.0,4.69,Eléctrico,África,99,"Sep 07, 2011",Nuevo,32982
+167,Ford,Camaro,1998,70766.0,8.83,Eléctrico,Norteamérica,77,"Aug 24, 2008",Nuevo,29953
+168,Chevrolet,Focus,1995,86574.0,3.33,Gasolina,Sudamérica,179,"Dec 03, 2009",Usado,33708
+169,Ford,Civic,2005,87481.0,9.07,Híbrido,Norteamérica,198,,Usado,33902
+170,Volkswagen,X5,2018,127323.0,14.57,Híbrido,Sudamérica,120,,Chatarra,36085
+171,Honda,Elantra,1992,,7.61,Eléctrico,Asia,160,,Chatarra,57762
+172,Honda,Golf,2009,88370.0,3.47,Diésel,Asia,173,05/05/2015,Usado,30396
+173,Chevrolet,Model 3,2008,98236.0,3.37,Eléctrico,Asia,90,,Usado,22654
+174,Volkswagen,Focus,2015,,7.66,Gasolina,Norteamérica,100,,Nuevo,9801
+175,Honda,Elantra,1992,66606.0,4.92,Eléctrico,África,169,06/12/2015,Nuevo,18046
+176,Nissan,Corolla,2008,85822.0,3.28,Gasolina,Sudamérica,187,,Chatarra,42353
+177,Volkswagen,Sentra,2009,112208.0,12.07,Eléctrico,Norteamérica,142,,Chatarra,37199
+178,Mercedes,Golf,2021,49204.0,8.5,Híbrido,Asia,84,,Nuevo,16500
+179,Hyundai,Focus,1996,83989.0,6.47,Eléctrico,Europa,199,"Oct 29, 2016",Nuevo,54642
+180,BMW,Camaro,2022,58996.0,13.8,Híbrido,Asia,98,2001-01-06,Chatarra,33267
+181,Volkswagen,Model 3,2007,115851.0,4.39,Diésel,África,106,,Nuevo,34603
+182,BMW,Sentra,1990,34304.0,,Diésel,Asia,133,,Usado,52442
+183,Nissan,C-Class,2000,63232.0,6.77,Eléctrico,Oceanía,182,"Sep 29, 2022",Usado,47394
+184,Hyundai,Elantra,2017,91316.0,13.66,Eléctrico,África,154,"May 12, 2020",Chatarra,37811
+185,Tesla,Model 3,2014,,10.24,Diésel,Europa,136,,Chatarra,38292
+186,Chevrolet,Focus,2012,78027.0,12.92,Gasolina,Sudamérica,138,"Oct 23, 2003",Nuevo,39227
+187,Volkswagen,X5,2020,63344.0,14.81,Diésel,Asia,121,,Nuevo,27590
+188,Chevrolet,Camaro,2019,136434.0,6.46,Diésel,África,142,,Usado,32867
+189,Ford,Corolla,1996,36559.0,14.53,Gasolina,Sudamérica,18,,Nuevo,35743
+190,BMW,C-Class,2005,14035.0,7.67,Diésel,Europa,108,06/03/2013,Chatarra,28732
+191,BMW,Golf,2015,93200.0,7.63,Diésel,Oceanía,129,"Oct 09, 2009",Chatarra,20345
+192,Ford,Model 3,1991,64938.0,7.08,Gasolina,África,73,,Nuevo,27338
+193,Tesla,C-Class,1990,49363.0,9.5,Gasolina,Europa,135,2008-08-16,Usado,20120
+194,Toyota,X5,2001,101250.0,4.85,Híbrido,Europa,111,"Jul 24, 2017",Usado,30643
+195,Mercedes,Focus,1994,87314.0,9.64,Eléctrico,Norteamérica,190,,Nuevo,12195
+196,Volkswagen,Camaro,2021,63077.0,9.5,Híbrido,Sudamérica,182,,Nuevo,33410
+197,BMW,Sentra,1998,41590.0,12.14,Gasolina,Norteamérica,101,,Chatarra,13687
+198,Mercedes,Elantra,2008,106173.0,13.0,Diésel,Europa,113,2010-01-10,Chatarra,25965
+199,BMW,Focus,2005,99506.0,8.29,Gasolina,África,117,,Chatarra,35041
+200,Toyota,Civic,1992,77024.0,6.63,Diésel,Asia,101,2013-02-18,Usado,37911
+201,Ford,Corolla,2009,135399.0,6.11,Híbrido,Oceanía,127,,Nuevo,36723
+202,Toyota,Corolla,2013,47897.0,5.34,Híbrido,Oceanía,89,2015-01-02,Chatarra,33197
+203,BMW,Sentra,2022,34234.0,3.69,Híbrido,Norteamérica,74,,Usado,18807
+204,Ford,Camaro,2013,59242.0,7.11,Diésel,Asia,144,,Chatarra,39806
+205,Toyota,Focus,2000,78632.0,6.24,Eléctrico,Norteamérica,145,"May 09, 2015",Nuevo,19035
+206,Tesla,Focus,1997,87300.0,14.6,Eléctrico,Oceanía,87,,Usado,40945
+207,Ford,X5,2009,72762.0,9.69,Eléctrico,Sudamérica,155,,Nuevo,36277
+208,Volkswagen,Golf,2014,90561.0,7.17,Gasolina,Oceanía,94,"Dec 16, 2018",Nuevo,43589
+209,BMW,Civic,2014,42453.0,9.97,Gasolina,Oceanía,130,,Usado,30248
+210,Nissan,Elantra,2018,123312.0,4.67,Diésel,Asia,152,,Usado,21812
+211,Chevrolet,Camaro,2007,77535.0,8.33,Gasolina,Norteamérica,118,,Chatarra,17073
+212,BMW,Model 3,2007,,,Diésel,Europa,138,"Jun 13, 2005",Usado,18184
+213,Volkswagen,Golf,1991,90281.0,8.87,Híbrido,África,99,"Apr 28, 2015",Usado,13632
+214,Honda,Elantra,2005,93702.0,7.82,Diésel,Europa,112,,Chatarra,39420
+215,Mercedes,C-Class,2022,97093.0,14.93,Gasolina,Sudamérica,111,2010-05-03,Nuevo,40674
+216,Mercedes,Civic,1993,93431.0,13.56,Híbrido,Sudamérica,90,2012-09-19,Usado,35536
+217,Chevrolet,Elantra,2022,99281.0,10.48,Híbrido,Norteamérica,112,"Aug 23, 2005",Nuevo,29669
+218,BMW,Focus,2003,119874.0,9.83,Diésel,Europa,58,14/04/2012,Nuevo,50609
+219,Chevrolet,Camaro,2010,85895.0,10.45,Eléctrico,Oceanía,100,,Usado,29018
+220,Hyundai,C-Class,2009,101270.0,5.42,Gasolina,Asia,108,,Nuevo,32209
+221,BMW,Elantra,1997,77307.0,7.74,Gasolina,Norteamérica,109,2002-11-11,Nuevo,29521
+222,Ford,Sentra,1996,123203.0,3.47,Eléctrico,Norteamérica,110,,Chatarra,26616
+223,Ford,Corolla,1992,59708.0,8.71,Gasolina,Europa,117,,Chatarra,36309
+224,Hyundai,Model 3,2006,134028.0,9.52,Eléctrico,África,139,05/05/2007,Chatarra,23665
+225,Tesla,X5,2022,78795.0,5.73,Eléctrico,Sudamérica,154,2008-10-04,Nuevo,22994
+226,Hyundai,Camaro,2001,37076.0,14.57,Híbrido,Oceanía,94,13/07/2018,Nuevo,36814
+227,Hyundai,Camaro,2011,83843.0,13.91,Híbrido,Asia,71,,Chatarra,25023
+228,Chevrolet,X5,2011,59568.0,11.67,Diésel,Sudamérica,78,,Usado,31334
+229,Toyota,Model 3,2019,105219.0,9.4,Híbrido,Oceanía,100,,Chatarra,26586
+230,Ford,Focus,1997,60421.0,,Eléctrico,Norteamérica,105,"Jul 27, 2011",Usado,29884
+231,Toyota,Model 3,2016,66614.0,4.57,Diésel,África,89,2001-08-19,Usado,23267
+232,Hyundai,Golf,2016,23313.0,12.49,Gasolina,Norteamérica,68,"Jul 29, 2016",Nuevo,23594
+233,Tesla,Model 3,2023,66430.0,4.5,Eléctrico,África,101,,Chatarra,21802
+234,Ford,Corolla,2010,7283.0,12.53,Diésel,Europa,127,,Usado,38433
+235,BMW,Elantra,2019,32482.0,6.31,Híbrido,Oceanía,143,2019-10-24,Chatarra,31718
+236,BMW,Sentra,2022,102812.0,13.53,Eléctrico,Sudamérica,97,,Nuevo,39185
+237,BMW,X5,2017,103574.0,14.33,Diésel,Norteamérica,103,,Nuevo,40253
+238,Volkswagen,Focus,2022,92763.0,4.79,Gasolina,África,82,20/12/2003,Nuevo,25400
+239,Chevrolet,Camaro,1994,50990.0,8.55,Eléctrico,África,118,,Usado,38815
+240,Honda,Focus,2008,,,Eléctrico,Norteamérica,86,"Feb 25, 2023",Chatarra,29858
+241,Hyundai,X5,1993,79891.0,8.8,Diésel,Sudamérica,142,,Usado,28413
+242,Honda,C-Class,2006,45249.0,13.36,Diésel,Oceanía,48,13/04/2007,Chatarra,42523
+243,Nissan,Corolla,2017,125101.0,,Híbrido,Europa,105,"Jul 23, 2020",Usado,35537
+244,Chevrolet,Corolla,2019,106320.0,7.5,Híbrido,Europa,132,,Nuevo,26475
+245,BMW,Model 3,2018,73371.0,6.43,Eléctrico,Asia,127,20/05/2020,Nuevo,34887
+246,Ford,X5,1995,80806.0,5.44,Gasolina,Asia,227,,Nuevo,17342
+247,Chevrolet,Civic,2013,,12.14,Híbrido,Asia,133,,Usado,32473
+248,Volkswagen,C-Class,2018,,7.64,Gasolina,Sudamérica,79,,Chatarra,15004
+249,Ford,X5,2020,72584.0,9.14,Diésel,Oceanía,116,,Nuevo,100000
+250,Toyota,Focus,2022,,8.91,Diésel,Oceanía,48,,Nuevo,35846
+251,Volkswagen,Golf,2010,49951.0,9.93,Híbrido,Asia,116,03/08/2000,Usado,3297
+252,Toyota,X5,2021,71566.0,13.39,Eléctrico,Asia,86,26/12/2019,Nuevo,48025
+253,Ford,C-Class,2012,133930.0,14.77,Diésel,Sudamérica,156,2008-08-19,Nuevo,38344
+254,BMW,X5,2022,99225.0,7.89,Gasolina,Asia,98,"May 25, 2020",Usado,11614
+255,Honda,X5,1992,62864.0,12.93,Eléctrico,Europa,115,"Sep 02, 2004",Usado,53984
+256,Hyundai,Model 3,2007,97177.0,12.17,Híbrido,Norteamérica,94,2004-04-16,Nuevo,56741
+257,Chevrolet,Civic,2014,121980.0,9.88,Diésel,Europa,189,,Chatarra,28195
+258,Chevrolet,C-Class,2020,107739.0,14.47,Híbrido,Europa,107,2009-08-11,Chatarra,20735
+259,BMW,Corolla,1992,81788.0,5.41,Eléctrico,África,193,,Chatarra,46863
+260,Hyundai,Sentra,2013,60591.0,4.31,Eléctrico,Norteamérica,152,"Jun 23, 2006",Chatarra,26562
+261,Toyota,Civic,2021,100946.0,13.25,Eléctrico,Europa,139,"Apr 15, 2015",Chatarra,31610
+262,Honda,Civic,2011,91804.0,8.27,Gasolina,Norteamérica,134,,Chatarra,42172
+263,Hyundai,Golf,2012,,13.16,Eléctrico,Europa,135,,Usado,28464
+264,Toyota,Sentra,1991,99055.0,13.72,Eléctrico,Sudamérica,42,2016-06-06,Chatarra,27589
+265,Hyundai,Civic,2016,111486.0,3.75,Diésel,Sudamérica,108,2012-07-03,Usado,17276
+266,Nissan,Focus,1991,63942.0,13.6,Gasolina,Asia,153,,Usado,23694
+267,Chevrolet,Corolla,2015,119521.0,8.38,Gasolina,Sudamérica,118,,Usado,27392
+268,Nissan,Civic,2006,85927.0,9.13,Híbrido,Norteamérica,63,"Feb 16, 2017",Nuevo,17614
+269,Hyundai,Corolla,2022,142257.0,10.52,Eléctrico,África,117,,Chatarra,18520
+270,Volkswagen,Model 3,1998,59324.0,14.12,Diésel,Asia,188,,Chatarra,30336
+271,Chevrolet,X5,2018,132078.0,3.23,Híbrido,Europa,169,,Chatarra,11502
+272,Honda,C-Class,2015,85937.0,8.72,Eléctrico,Sudamérica,117,,Nuevo,21208
+273,BMW,Model 3,2014,,11.25,Gasolina,Asia,158,,Usado,49445
+274,Nissan,Corolla,2013,65483.0,,Eléctrico,Sudamérica,105,"Aug 15, 2018",Chatarra,26545
+275,BMW,Civic,2002,70389.0,11.31,Eléctrico,Asia,51,"Jul 07, 2002",Nuevo,25292
+276,Toyota,Sentra,1996,92724.0,4.61,Diésel,Norteamérica,83,"May 13, 2001",Nuevo,26500
+277,Mercedes,Corolla,2009,95685.0,6.59,Diésel,Norteamérica,182,"Sep 10, 2007",Chatarra,26658
+278,Volkswagen,Civic,1990,62788.0,7.3,Diésel,Europa,109,"Aug 01, 2013",Usado,35748
+279,Toyota,Elantra,1997,79269.0,12.65,Híbrido,Oceanía,110,,Nuevo,35048
+280,Tesla,Golf,2005,144268.0,6.35,Diésel,Asia,108,,Usado,26092
+281,Toyota,Focus,2003,131826.0,5.53,Híbrido,Oceanía,196,"Jul 01, 2017",Usado,27861
+282,Toyota,Focus,2001,93089.0,14.49,Eléctrico,Oceanía,185,,Chatarra,43127
+283,Mercedes,Camaro,2012,81140.0,3.11,Híbrido,África,208,,Chatarra,14896
+284,Chevrolet,Camaro,2004,83600.0,14.97,Híbrido,Norteamérica,113,"Jul 01, 2012",Chatarra,29424
+285,Volkswagen,Model 3,2017,98405.0,11.12,Diésel,Europa,131,,Usado,31352
+286,Volkswagen,Golf,2023,49316.0,12.94,Diésel,Asia,59,"Mar 15, 2014",Usado,22233
+287,Honda,C-Class,1991,72278.0,,Gasolina,Europa,179,,Nuevo,28848
+288,Toyota,Focus,2021,29942.0,3.17,Híbrido,Norteamérica,73,,Nuevo,20883
+289,Volkswagen,Camaro,2012,91976.0,11.85,Eléctrico,Oceanía,128,"Aug 07, 2006",Nuevo,36371
+290,Ford,Golf,2011,99415.0,13.01,Gasolina,Europa,76,,Chatarra,16617
+291,Honda,X5,2014,65504.0,11.89,Gasolina,Asia,96,2008-02-12,Usado,40623
+292,Ford,C-Class,2011,127219.0,4.71,Gasolina,Sudamérica,86,2006-11-26,Usado,29266
+293,Mercedes,Corolla,2011,43227.0,12.04,Diésel,África,95,,Usado,25519
+294,Ford,Golf,1995,36068.0,12.23,Diésel,Norteamérica,98,,Nuevo,19953
+295,BMW,Sentra,2004,86733.0,10.9,Diésel,Oceanía,98,10/02/2005,Chatarra,40306
+296,Hyundai,Camaro,2022,111412.0,12.19,Eléctrico,Asia,153,,Chatarra,23481
+297,Ford,Corolla,1997,130517.0,13.15,Híbrido,Asia,75,,Usado,18327
+298,Mercedes,Corolla,1994,66233.0,10.36,Gasolina,Europa,128,"Oct 04, 2008",Usado,40514
+299,BMW,Camaro,1993,112360.0,4.06,Diésel,Norteamérica,168,2016-09-16,Usado,20956
+300,Mercedes,Elantra,1995,78844.0,8.85,Híbrido,Sudamérica,99,,Usado,29055
+301,Mercedes,Elantra,2021,74821.0,3.93,Gasolina,Sudamérica,91,2009-06-02,Nuevo,38188
+302,Toyota,Focus,2019,,7.89,Híbrido,África,110,,Nuevo,31579
+303,Mercedes,Camaro,2005,99569.0,7.89,Gasolina,Oceanía,167,,Usado,47308
+304,Ford,Camaro,2002,,3.79,Híbrido,África,127,"Nov 25, 2013",Nuevo,21650
+305,Hyundai,Focus,2019,,7.19,Diésel,Europa,98,26/04/2010,Usado,27894
+306,Mercedes,Focus,2008,121402.0,4.33,Híbrido,Norteamérica,139,21/11/2021,Usado,28668
+307,Mercedes,Model 3,2006,61233.0,12.7,Híbrido,Sudamérica,75,,Usado,36212
+308,Volkswagen,C-Class,2008,91874.0,14.37,Gasolina,Norteamérica,147,,Nuevo,42886
+309,Tesla,Civic,2017,,3.87,Híbrido,Europa,136,2005-12-13,Usado,30736
+310,Nissan,Focus,2015,87820.0,14.46,Eléctrico,Norteamérica,107,,Usado,28623
+311,BMW,Civic,2015,63490.0,9.27,Gasolina,Norteamérica,86,"Feb 14, 2007",Chatarra,15170
+312,Tesla,Sentra,2012,,6.59,Híbrido,Norteamérica,84,,Chatarra,31123
+313,BMW,C-Class,1998,79233.0,3.92,Eléctrico,Europa,141,,Nuevo,23496
+314,Nissan,C-Class,2001,115181.0,9.01,Gasolina,Europa,169,,Chatarra,36184
+315,Hyundai,Golf,1990,96308.0,12.53,Diésel,Europa,94,"Nov 29, 2005",Nuevo,25903
+316,Honda,Model 3,1990,68881.0,11.49,Gasolina,Sudamérica,138,,Usado,27593
+317,Nissan,Elantra,2023,103150.0,3.6,Gasolina,Asia,36,,Chatarra,15397
+318,Chevrolet,C-Class,2021,-5456.0,3.87,Híbrido,Oceanía,96,2011-12-17,Nuevo,11885
+319,Tesla,Golf,2014,114462.0,7.83,Eléctrico,Oceanía,118,10/08/2003,Usado,48609
+320,Ford,Sentra,1990,27808.0,6.54,Gasolina,Oceanía,83,,Chatarra,31296
+321,Toyota,Camaro,2005,69126.0,5.79,Gasolina,Norteamérica,82,,Chatarra,34043
+322,Chevrolet,Golf,1994,46409.0,6.37,Gasolina,África,93,,Nuevo,20877
+323,Mercedes,C-Class,2011,41159.0,12.64,Híbrido,África,131,,Usado,38755
+324,Mercedes,Elantra,2018,114824.0,14.15,Gasolina,Asia,112,,Chatarra,36951
+325,Ford,Focus,1992,65968.0,7.86,Eléctrico,Norteamérica,30,,Usado,21975
+326,Ford,Focus,2001,90395.0,13.87,Híbrido,Norteamérica,35,"Feb 16, 2022",Usado,19404
+327,Volkswagen,Golf,2015,78592.0,6.86,Diésel,Norteamérica,95,2022-03-13,Chatarra,22674
+328,BMW,X5,2005,94311.0,8.72,Diésel,Europa,138,27/10/2021,Usado,29717
+329,Volkswagen,Elantra,2011,82304.0,5.71,Híbrido,Oceanía,10,"Mar 31, 2005",Nuevo,31671
+330,Nissan,Camaro,2018,41510.0,10.69,Eléctrico,Sudamérica,100,26/02/2019,Chatarra,30383
+331,Honda,X5,2003,109888.0,14.75,Híbrido,Europa,98,"Jul 20, 2007",Nuevo,42987
+332,Tesla,Elantra,2017,65187.0,10.24,Híbrido,Norteamérica,175,2017-09-12,Chatarra,22850
+333,Ford,Model 3,1994,33302.0,7.29,Híbrido,Asia,104,,Nuevo,19133
+334,BMW,Camaro,2019,67156.0,10.77,Híbrido,Norteamérica,135,"Jun 02, 2017",Usado,30000
+335,Tesla,Elantra,1994,,,Gasolina,Norteamérica,125,,Usado,13069
+336,Nissan,Elantra,2001,105506.0,13.66,Diésel,Sudamérica,34,,Nuevo,36957
+337,Honda,Focus,2005,69540.0,9.04,Eléctrico,Norteamérica,150,"Apr 17, 2018",Usado,30979
+338,Chevrolet,Model 3,2015,69522.0,8.39,Gasolina,Europa,128,,Nuevo,26619
+339,Volkswagen,Elantra,2015,70350.0,10.03,Diésel,África,140,,Chatarra,26064
+340,Nissan,Model 3,2010,142302.0,10.5,Híbrido,Sudamérica,277,,Chatarra,39099
+341,Mercedes,Sentra,2022,,3.86,Diésel,Oceanía,36,"Jun 18, 2001",Usado,38781
+342,Volkswagen,Model 3,2019,,11.19,Diésel,Sudamérica,188,,Usado,27536
+343,Toyota,Civic,2012,110908.0,,Gasolina,Sudamérica,108,"Dec 25, 2010",Chatarra,35917
+344,Volkswagen,Camaro,1999,87163.0,11.57,Gasolina,Norteamérica,131,"Apr 21, 2009",Usado,38633
+345,Nissan,Focus,1994,72228.0,12.87,Eléctrico,Sudamérica,118,"Nov 25, 2005",Chatarra,33355
+346,Ford,Focus,2023,74109.0,12.65,Híbrido,Oceanía,103,"May 02, 2016",Chatarra,27945
+347,Honda,Focus,2020,,9.63,Híbrido,Sudamérica,97,25/01/2020,Nuevo,33811
+348,Nissan,Focus,1999,78883.0,9.24,Híbrido,Europa,133,2019-01-18,Nuevo,19609
+349,Ford,Elantra,2008,101828.0,4.71,Diésel,Asia,59,,Chatarra,30711
+350,Ford,Focus,2021,81558.0,12.3,Diésel,Europa,150,28/04/2023,Chatarra,27668
+351,Volkswagen,Model 3,1990,101979.0,6.26,Híbrido,Europa,103,,Nuevo,26101
+352,Honda,Civic,1994,77578.0,8.96,Eléctrico,Asia,74,,Chatarra,12734
+353,Nissan,Golf,1993,82359.0,6.41,Diésel,Asia,101,,Chatarra,19724
+354,Nissan,Corolla,2005,20053.0,4.61,Eléctrico,Sudamérica,170,2022-10-08,Chatarra,25141
+355,Mercedes,C-Class,2013,107489.0,10.55,Diésel,Europa,98,"Jan 09, 2003",Usado,38950
+356,BMW,Golf,2005,90394.0,3.65,Gasolina,Norteamérica,134,,Nuevo,32858
+357,Tesla,Golf,1991,109940.0,11.98,Gasolina,África,90,,Chatarra,39396
+358,BMW,Model 3,2017,,6.81,Híbrido,África,150,,Chatarra,42429
+359,Nissan,Focus,2021,142651.0,3.0,Gasolina,África,147,,Usado,33293
+360,Volkswagen,Elantra,2016,75812.0,9.13,Diésel,Europa,193,,Usado,31402
+361,Chevrolet,Model 3,2009,113245.0,3.56,Diésel,Oceanía,112,,Chatarra,20270
+362,Nissan,Elantra,2013,48802.0,6.31,Gasolina,Asia,146,"Jul 26, 2008",Nuevo,49866
+363,Toyota,Corolla,2001,98383.0,11.48,Gasolina,Sudamérica,123,,Usado,15821
+364,Ford,Sentra,2022,48397.0,3.75,Gasolina,Sudamérica,171,20/06/2002,Nuevo,31187
+365,Hyundai,C-Class,2022,61286.0,13.07,Híbrido,África,91,,Usado,38327
+366,Nissan,Sentra,2001,137420.0,,Gasolina,Sudamérica,149,14/04/2018,Usado,38467
+367,Toyota,Model 3,1992,74279.0,5.96,Diésel,Norteamérica,112,,Nuevo,18449
+368,Toyota,Focus,1990,86522.0,11.89,Gasolina,Norteamérica,117,,Chatarra,25800
+369,Tesla,C-Class,2022,106102.0,6.8,Híbrido,Asia,123,,Nuevo,22010
+370,Honda,Golf,1999,94870.0,4.22,Híbrido,Sudamérica,130,"Dec 03, 2002",Chatarra,10195
+371,Nissan,X5,2018,84512.0,7.32,Diésel,Europa,115,"Jan 27, 2000",Chatarra,31303
+372,Honda,Civic,2002,90948.0,6.24,Diésel,Sudamérica,128,29/12/2018,Usado,22823
+373,Chevrolet,Camaro,2001,152102.0,13.11,Gasolina,Europa,183,2019-11-21,Usado,45054
+374,Volkswagen,X5,2020,78271.0,6.76,Diésel,Oceanía,159,,Usado,36151
+375,Hyundai,Focus,1991,86032.0,12.47,Eléctrico,África,154,2001-07-01,Chatarra,30414
+376,Volkswagen,Model 3,2012,111519.0,,Diésel,Europa,101,2023-12-24,Chatarra,25273
+377,Toyota,Golf,2006,113165.0,8.21,Eléctrico,Oceanía,84,13/08/2014,Nuevo,31151
+378,Ford,Model 3,2015,115610.0,13.92,Eléctrico,África,158,"Aug 06, 2008",Nuevo,27441
+379,Ford,Focus,1997,99161.0,7.53,Diésel,Norteamérica,155,,Nuevo,30695
+380,Honda,Sentra,2018,45709.0,14.57,Eléctrico,Sudamérica,178,"May 09, 2004",Nuevo,49016
+381,Volkswagen,C-Class,2015,129002.0,4.07,Diésel,Oceanía,95,,Chatarra,19352
+382,Toyota,X5,1999,45609.0,11.24,Diésel,Asia,110,14/07/2013,Chatarra,28313
+383,Tesla,Elantra,2015,89079.0,8.93,Híbrido,Sudamérica,54,"May 08, 2021",Nuevo,37063
+384,Mercedes,Golf,2023,57371.0,7.65,Eléctrico,África,104,,Nuevo,25998
+385,Volkswagen,C-Class,1996,78075.0,10.59,Eléctrico,Sudamérica,159,2003-09-19,Chatarra,45805
+386,Honda,C-Class,1993,89862.0,11.45,Gasolina,Asia,101,2022-02-26,Nuevo,36784
+387,Hyundai,Golf,2000,89640.0,3.05,Diésel,África,145,"Oct 30, 2008",Usado,22811
+388,Honda,Corolla,2018,92657.0,5.0,Híbrido,África,112,2006-09-26,Chatarra,32040
+389,Toyota,C-Class,2014,128411.0,11.56,Híbrido,Asia,132,"Dec 03, 2023",Usado,22953
+390,Nissan,Sentra,2010,93606.0,11.0,Gasolina,Sudamérica,74,2007-06-21,Usado,22033
+391,Tesla,Corolla,1999,72675.0,14.59,Eléctrico,Asia,123,01/06/2018,Chatarra,28598
+392,Toyota,Civic,1998,,12.13,Híbrido,Europa,0,,Chatarra,42637
+393,Tesla,Sentra,2013,115684.0,14.41,Eléctrico,Norteamérica,112,"Aug 09, 2017",Usado,37454
+394,BMW,Sentra,2007,43171.0,11.43,Híbrido,Asia,54,,Nuevo,29774
+395,BMW,Model 3,2021,97922.0,6.58,Híbrido,África,168,2001-09-08,Nuevo,37811
+396,Ford,Model 3,2013,101035.0,4.26,Diésel,Europa,151,,Chatarra,32686
+397,Tesla,Corolla,2012,71073.0,12.38,Eléctrico,Norteamérica,138,,Usado,18301
+398,Volkswagen,Civic,2021,121271.0,10.73,Híbrido,Asia,180,,Usado,28548
+399,Hyundai,Civic,2001,75498.0,3.58,Diésel,Norteamérica,82,"Jan 09, 2007",Chatarra,29268
+400,Mercedes,C-Class,2002,83767.0,7.32,Híbrido,Sudamérica,189,"Sep 09, 2008",Chatarra,37616
+401,Honda,Elantra,2012,74807.0,14.48,Diésel,África,157,,Usado,24335
+402,BMW,Focus,2014,80467.0,9.0,Diésel,Asia,110,,Usado,20873
+403,Honda,Civic,2019,,8.19,Eléctrico,África,165,27/08/2008,Chatarra,29544
+404,Honda,Corolla,2006,36798.0,8.49,Diésel,Europa,75,,Usado,23545
+405,Hyundai,Focus,2009,127835.0,,Híbrido,Europa,87,01/03/2017,Nuevo,26764
+406,Toyota,Golf,2014,54591.0,7.42,Gasolina,Norteamérica,95,2019-06-09,Chatarra,29191
+407,Honda,X5,2011,50258.0,7.44,Híbrido,Europa,98,,Nuevo,26169
+408,Tesla,Elantra,2002,15398.0,3.63,Híbrido,Oceanía,77,2011-03-02,Chatarra,39631
+409,Hyundai,Elantra,2008,60831.0,12.21,Diésel,Europa,168,,Chatarra,44142
+410,BMW,Camaro,2001,40307.0,8.0,Híbrido,Asia,109,"May 14, 2011",Usado,38629
+411,Nissan,Model 3,2008,129260.0,12.87,Diésel,África,134,"Feb 13, 2007",Nuevo,12288
+412,Honda,Civic,2001,110294.0,13.2,Eléctrico,Oceanía,97,,Usado,23580
+413,Ford,Model 3,1998,59355.0,5.54,Diésel,Norteamérica,47,"Oct 28, 2001",Nuevo,28213
+414,Hyundai,Sentra,1996,147573.0,10.89,Eléctrico,Europa,130,"Oct 10, 2000",Usado,11537
+415,Toyota,Model 3,2017,109452.0,8.67,Gasolina,África,43,,Chatarra,21241
+416,Chevrolet,C-Class,2003,70255.0,13.56,Híbrido,Sudamérica,117,,Nuevo,28085
+417,BMW,C-Class,2020,5017.0,5.59,Eléctrico,Asia,65,29/07/2012,Nuevo,25510
+418,BMW,Focus,2008,148728.0,11.13,Gasolina,Europa,199,,Chatarra,30086
+419,Chevrolet,Corolla,2005,38312.0,,Diésel,Europa,156,,Chatarra,16191
+420,Tesla,Civic,1994,30638.0,6.54,Gasolina,Europa,124,,Usado,25397
+421,Nissan,Civic,2001,110677.0,4.64,Eléctrico,África,170,"Feb 17, 2017",Nuevo,31519
+422,BMW,C-Class,2014,153192.0,10.82,Híbrido,Asia,86,,Usado,30102
+423,BMW,Corolla,2010,121528.0,11.86,Gasolina,Oceanía,141,,Nuevo,34468
+424,Toyota,Focus,2012,,6.79,Gasolina,Oceanía,127,2020-03-18,Nuevo,33885
+425,BMW,Sentra,2005,97842.0,10.74,Diésel,Asia,130,,Usado,25928
+426,Hyundai,Camaro,2003,105602.0,7.74,Diésel,África,170,,Chatarra,31201
+427,Tesla,Elantra,2020,102767.0,11.56,Híbrido,Norteamérica,149,2018-10-11,Chatarra,22000
+428,Nissan,Camaro,1994,88435.0,5.39,Diésel,Oceanía,131,"Oct 22, 2005",Usado,27297
+429,Ford,C-Class,2012,83126.0,13.68,Eléctrico,Oceanía,53,"Feb 01, 2006",Chatarra,19443
+430,Nissan,Camaro,2018,78122.0,6.45,Eléctrico,Asia,81,19/05/2012,Usado,40654
+431,Tesla,Elantra,2000,57381.0,7.41,Gasolina,África,115,,Chatarra,27265
+432,Volkswagen,Sentra,2007,71579.0,3.7,Diésel,África,123,,Usado,40639
+433,Hyundai,X5,2001,29211.0,4.34,Diésel,Europa,74,2011-04-29,Usado,33114
+434,Volkswagen,Golf,1998,77049.0,9.19,Gasolina,África,216,,Usado,21143
+435,Tesla,Focus,1999,50342.0,6.21,Híbrido,Europa,180,,Usado,32511
+436,Toyota,Model 3,2006,46892.0,13.03,Diésel,Sudamérica,144,,Chatarra,38097
+437,Ford,Elantra,1996,85396.0,3.18,Diésel,África,122,,Nuevo,29224
+438,Nissan,Focus,2002,121760.0,7.55,Híbrido,Asia,111,,Chatarra,30740
+439,Honda,Sentra,1998,107549.0,7.05,Diésel,Europa,81,,Nuevo,24485
+440,Mercedes,C-Class,2016,,3.23,Eléctrico,Sudamérica,123,,Usado,30241
+441,Nissan,Camaro,1991,50311.0,4.49,Eléctrico,Norteamérica,130,,Nuevo,32378
+442,Toyota,Golf,1994,108223.0,7.96,Híbrido,Norteamérica,70,,Nuevo,24211
+443,Ford,Sentra,2018,50525.0,8.91,Híbrido,Norteamérica,133,,Chatarra,19207
+444,Mercedes,Corolla,2008,73261.0,7.85,Eléctrico,Europa,113,,Usado,42879
+445,Hyundai,X5,1997,96501.0,9.37,Eléctrico,África,43,,Usado,36041
+446,Tesla,Elantra,1990,50949.0,10.14,Eléctrico,Europa,85,"Aug 12, 2006",Usado,24523
+447,Tesla,C-Class,2011,83161.0,3.12,Eléctrico,Norteamérica,103,"Mar 20, 2008",Nuevo,32196
+448,Hyundai,Corolla,2006,39979.0,8.57,Híbrido,África,195,"Oct 04, 2004",Usado,15214
+449,Mercedes,Corolla,1996,61958.0,14.56,Híbrido,Sudamérica,142,26/09/2003,Chatarra,10229
+450,Volkswagen,X5,2014,89593.0,9.23,Gasolina,Norteamérica,66,2007-06-01,Nuevo,40841
+451,Ford,Sentra,1993,32210.0,11.13,Híbrido,Asia,139,,Nuevo,32295
+452,Hyundai,X5,1995,93214.0,6.74,Eléctrico,África,58,31/05/2000,Nuevo,29522
+453,Mercedes,Civic,2020,79410.0,12.29,Diésel,Europa,163,,Nuevo,32326
+454,BMW,Sentra,2008,96574.0,12.28,Eléctrico,Europa,101,"Jul 01, 2002",Chatarra,62261
+455,Nissan,Sentra,2016,86717.0,9.26,Eléctrico,Asia,116,2006-05-10,Nuevo,38690
+456,Toyota,Model 3,1999,120924.0,14.71,Híbrido,Oceanía,173,,Nuevo,19545
+457,Hyundai,Focus,2015,83756.0,4.51,Gasolina,Europa,68,,Chatarra,100000
+458,Toyota,Corolla,2008,67117.0,3.2,Diésel,Asia,64,10/07/2001,Usado,40545
+459,Volkswagen,Camaro,1992,83668.0,12.24,Diésel,Norteamérica,96,01/04/2004,Chatarra,38560
+460,Volkswagen,Elantra,2002,96298.0,12.69,Gasolina,Norteamérica,161,"Oct 21, 2005",Usado,35750
+461,BMW,Civic,2017,81465.0,4.44,Eléctrico,Europa,59,,Nuevo,21871
+462,Tesla,Civic,2009,,6.19,Híbrido,África,6,,Nuevo,33632
+463,Hyundai,Elantra,2017,58940.0,3.21,Eléctrico,Oceanía,101,"Jun 05, 2000",Nuevo,22766
+464,Ford,Golf,1997,60112.0,6.52,Diésel,Europa,142,,Chatarra,36627
+465,Tesla,X5,1990,37921.0,12.28,Diésel,Norteamérica,168,11/08/2019,Usado,39826
+466,Mercedes,Golf,1992,132487.0,9.22,Eléctrico,África,101,,Usado,24565
+467,Tesla,Golf,2002,42684.0,7.18,Diésel,Asia,103,2020-08-26,Chatarra,41318
+468,Ford,Model 3,2017,,7.46,Híbrido,Norteamérica,166,"Jan 20, 2022",Chatarra,31148
+469,Nissan,Focus,2014,58447.0,3.02,Diésel,Asia,45,"Sep 28, 2012",Usado,34918
+470,Volkswagen,Elantra,2022,106847.0,6.6,Híbrido,Oceanía,104,"Feb 10, 2017",Chatarra,16903
+471,Nissan,Corolla,1995,71151.0,10.76,Eléctrico,Oceanía,127,03/11/2019,Nuevo,32322
+472,Hyundai,Elantra,2021,117432.0,14.69,Eléctrico,Sudamérica,137,"Jun 03, 2000",Usado,23244
+473,Tesla,Corolla,2010,,13.16,Híbrido,África,99,2021-10-07,Chatarra,34746
+474,Hyundai,Camaro,2005,88369.0,3.28,Híbrido,Norteamérica,121,,Usado,44671
+475,Nissan,Focus,2010,54939.0,13.78,Híbrido,Asia,20,,Chatarra,32895
+476,Volkswagen,Model 3,2000,144354.0,12.4,Diésel,Asia,93,15/12/2007,Usado,20991
+477,Honda,C-Class,2008,44372.0,,Eléctrico,Asia,138,"Jun 02, 2000",Usado,36264
+478,BMW,Elantra,2009,,8.5,Diésel,Europa,80,"Jul 02, 2021",Usado,34017
+479,Hyundai,C-Class,2007,99013.0,7.78,Diésel,Europa,122,,Nuevo,50586
+480,Hyundai,Elantra,2003,92413.0,6.63,Híbrido,Oceanía,137,,Nuevo,32539
+481,Honda,Elantra,2004,74441.0,3.79,Diésel,Sudamérica,106,,Usado,24145
+482,Mercedes,Sentra,2020,76105.0,5.74,Gasolina,Oceanía,126,2002-02-25,Chatarra,37706
+483,Mercedes,Focus,1990,81314.0,5.96,Gasolina,Sudamérica,81,,Nuevo,28723
+484,Nissan,Elantra,1992,75589.0,8.81,Gasolina,Oceanía,500,"Mar 02, 2022",Chatarra,30802
+485,Hyundai,Corolla,2005,108916.0,11.97,Gasolina,Asia,144,12/09/2011,Usado,20715
+486,Volkswagen,Model 3,2012,,8.69,Gasolina,Europa,126,25/04/2010,Chatarra,28775
+487,Toyota,Civic,2000,63275.0,3.69,Híbrido,Oceanía,96,"May 30, 2016",Nuevo,30308
+488,Nissan,C-Class,2001,38905.0,14.49,Diésel,África,128,,Chatarra,28716
+489,Nissan,Camaro,1999,77351.0,14.31,Diésel,Oceanía,148,19/05/2009,Chatarra,24091
+490,BMW,Model 3,2021,157391.0,12.42,Gasolina,África,38,,Usado,32882
+491,Hyundai,Focus,2005,55889.0,14.9,Diésel,Asia,166,,Usado,20765
+492,Mercedes,Elantra,1997,129173.0,9.53,Gasolina,Europa,106,,Chatarra,18410
+493,Mercedes,Focus,2001,130331.0,14.55,Diésel,Oceanía,137,,Chatarra,37095
+494,Tesla,X5,2013,,3.91,Híbrido,África,167,,Usado,36177
+495,Chevrolet,Elantra,2017,97069.0,7.39,Eléctrico,Europa,65,,Nuevo,16923
+496,Chevrolet,C-Class,1997,128851.0,5.7,Gasolina,Sudamérica,91,"Mar 13, 2019",Nuevo,11704
+497,Chevrolet,Elantra,2017,68626.0,5.35,Híbrido,Asia,108,26/04/2019,Chatarra,19912
+498,BMW,Golf,2015,73892.0,4.69,Híbrido,Oceanía,88,27/04/2003,Usado,28717
+499,Volkswagen,Focus,1997,62549.0,10.47,Gasolina,Oceanía,500,26/01/2019,Chatarra,41543
+500,Chevrolet,Elantra,2017,49557.0,12.38,Gasolina,Asia,85,"May 10, 2018",Usado,28472
+501,Honda,Sentra,2017,60521.0,9.94,Híbrido,Europa,97,,Nuevo,22306
+502,Ford,Model 3,2016,43281.0,4.76,Gasolina,Europa,128,16/11/2006,Chatarra,31485
+503,Nissan,X5,2006,81022.0,12.73,Gasolina,Oceanía,71,,Usado,28859
+504,Volkswagen,Model 3,1998,56900.0,10.63,Eléctrico,Norteamérica,104,,Chatarra,16189
+505,Mercedes,Civic,2022,87013.0,7.66,Eléctrico,Oceanía,132,,Nuevo,16249
+506,Tesla,Focus,2009,33323.0,11.09,Gasolina,África,106,,Nuevo,16518
+507,Ford,Golf,2002,89926.0,6.12,Híbrido,Sudamérica,116,2016-07-06,Chatarra,54798
+508,BMW,Focus,2017,105005.0,7.14,Diésel,África,98,,Chatarra,38599
+509,Nissan,Golf,2018,20187.0,14.01,Gasolina,Norteamérica,59,06/06/2007,Chatarra,24062
+510,BMW,Golf,2002,91221.0,6.49,Gasolina,Europa,132,,Usado,41082
+511,BMW,X5,1995,116830.0,8.64,Diésel,África,190,2020-01-24,Usado,24319
+512,Honda,Model 3,2007,43710.0,13.68,Diésel,Asia,120,07/09/2012,Chatarra,40751
+513,Toyota,Model 3,1994,130177.0,11.49,Diésel,África,129,2008-09-27,Nuevo,30803
+514,Toyota,Civic,2014,92570.0,3.75,Eléctrico,Europa,147,,Chatarra,23411
+515,BMW,X5,1991,58849.0,4.77,Eléctrico,Oceanía,69,2001-12-24,Chatarra,36798
+516,Chevrolet,Focus,1999,78326.0,3.09,Eléctrico,África,188,,Nuevo,31375
+517,Mercedes,Civic,2019,96749.0,10.57,Híbrido,Norteamérica,128,2008-03-29,Nuevo,33982
+518,Ford,Sentra,1994,82280.0,8.37,Gasolina,Sudamérica,185,2015-03-18,Usado,32155
+519,Chevrolet,X5,2022,96162.0,4.61,Eléctrico,Europa,90,,Chatarra,32050
+520,Hyundai,Civic,1990,52379.0,14.5,Híbrido,Asia,192,"Nov 11, 2006",Chatarra,38005
+521,Mercedes,C-Class,2007,85080.0,9.36,Híbrido,Oceanía,151,"Mar 17, 2004",Chatarra,55838
+522,BMW,Civic,2021,37588.0,5.9,Diésel,Norteamérica,142,,Chatarra,42487
+523,Hyundai,Focus,2000,76663.0,9.01,Diésel,Europa,129,,Nuevo,32196
+524,Chevrolet,Civic,2010,,,Eléctrico,Asia,110,,Chatarra,26893
+525,Hyundai,Camaro,2015,57934.0,3.91,Gasolina,Asia,168,13/12/2023,Chatarra,27992
+526,BMW,Camaro,2014,117082.0,6.3,Gasolina,Europa,125,,Chatarra,17438
+527,Honda,C-Class,2011,112739.0,,Gasolina,Oceanía,41,09/01/2010,Chatarra,36645
+528,Toyota,C-Class,2016,98274.0,8.52,Híbrido,Norteamérica,75,"Jan 20, 2008",Usado,19850
+529,Ford,Camaro,2002,47230.0,9.56,Híbrido,Oceanía,112,,Chatarra,26275
+530,Hyundai,C-Class,2022,,8.19,Híbrido,Oceanía,132,09/12/2013,Nuevo,36703
+531,BMW,C-Class,2023,116392.0,3.53,Híbrido,Oceanía,117,,Usado,27626
+532,Honda,Model 3,1990,84251.0,4.99,Gasolina,Oceanía,168,20/01/2004,Chatarra,25077
+533,Volkswagen,Model 3,2010,149579.0,8.35,Gasolina,Asia,41,21/01/2017,Nuevo,18025
+534,Chevrolet,Civic,1995,91799.0,5.51,Diésel,Sudamérica,125,,Usado,42053
+535,Toyota,Camaro,2017,85761.0,3.6,Gasolina,Norteamérica,47,,Usado,21667
+536,Volkswagen,Focus,2006,,13.12,Híbrido,Asia,150,,Chatarra,24141
+537,BMW,Camaro,1994,84006.0,14.77,Híbrido,Europa,116,05/03/2017,Usado,12082
+538,Ford,Camaro,2020,75425.0,12.52,Eléctrico,Europa,136,,Chatarra,29801
+539,Chevrolet,Sentra,1994,101243.0,,Gasolina,Oceanía,85,,Chatarra,26667
+540,Honda,Sentra,1992,108701.0,5.9,Gasolina,Norteamérica,171,,Usado,31818
+541,Chevrolet,C-Class,2012,56420.0,14.53,Diésel,Asia,161,,Usado,18253
+542,Volkswagen,Corolla,1999,40063.0,5.36,Diésel,Asia,143,,Usado,37341
+543,Volkswagen,Model 3,1999,24913.0,14.42,Híbrido,Norteamérica,114,22/08/2022,Usado,11607
+544,Mercedes,Golf,2008,95239.0,14.94,Eléctrico,Oceanía,143,,Usado,29078
+545,Tesla,Focus,2006,46899.0,11.54,Gasolina,Norteamérica,91,,Nuevo,31154
+546,Chevrolet,Sentra,2010,15413.0,14.77,Gasolina,Norteamérica,154,,Nuevo,30577
+547,Mercedes,Camaro,2003,91657.0,9.83,Eléctrico,Sudamérica,185,,Chatarra,31577
+548,Volkswagen,Camaro,1998,154789.0,6.11,Gasolina,Sudamérica,162,,Chatarra,37886
+549,Hyundai,Corolla,1990,79817.0,8.24,Diésel,Oceanía,90,,Chatarra,43246
+550,Volkswagen,Corolla,2002,105154.0,10.12,Eléctrico,Sudamérica,134,"Jul 17, 2014",Usado,28443
+551,Chevrolet,Model 3,1993,82454.0,3.88,Gasolina,Europa,68,,Chatarra,20321
+552,Honda,Sentra,1990,,10.47,Diésel,Sudamérica,142,,Chatarra,35607
+553,Chevrolet,Focus,2021,107572.0,14.77,Diésel,Sudamérica,138,07/06/2001,Usado,27197
+554,Chevrolet,Focus,2023,71291.0,,Híbrido,Sudamérica,45,2011-09-15,Nuevo,42646
+555,Nissan,C-Class,2017,,12.51,Gasolina,Asia,73,09/09/2014,Chatarra,23980
+556,BMW,C-Class,2020,89650.0,13.89,Eléctrico,África,108,,Usado,21419
+557,Nissan,Golf,1997,59957.0,14.32,Diésel,Sudamérica,107,12/05/2022,Chatarra,31437
+558,Volkswagen,Elantra,2015,109761.0,14.52,Diésel,Norteamérica,71,,Nuevo,12595
+559,Chevrolet,Camaro,2023,74751.0,9.26,Híbrido,Sudamérica,135,,Chatarra,25325
+560,BMW,C-Class,1992,57327.0,14.73,Eléctrico,África,130,26/02/2021,Nuevo,26701
+561,Nissan,Golf,2001,96095.0,12.09,Híbrido,Oceanía,112,02/12/2004,Chatarra,32204
+562,Chevrolet,Corolla,1990,53045.0,4.94,Diésel,Oceanía,89,"Nov 01, 2005",Usado,20037
+563,Ford,Camaro,1994,80845.0,8.72,Gasolina,Europa,161,2020-01-18,Chatarra,21204
+564,Nissan,C-Class,2019,79726.0,11.62,Eléctrico,Europa,186,,Chatarra,41569
+565,BMW,X5,2019,112576.0,5.97,Gasolina,Sudamérica,100,"Mar 26, 2002",Nuevo,29865
+566,Nissan,Model 3,2006,94240.0,10.69,Gasolina,Norteamérica,95,,Usado,38646
+567,Tesla,C-Class,2012,,11.0,Híbrido,Norteamérica,139,,Usado,24582
+568,Tesla,Camaro,2004,104532.0,4.95,Diésel,Asia,105,,Nuevo,29455
+569,Volkswagen,Golf,2010,,9.78,Gasolina,Norteamérica,114,11/11/2003,Nuevo,32145
+570,Ford,Civic,2003,96734.0,12.26,Eléctrico,Asia,149,18/06/2001,Chatarra,47475
+571,Honda,Corolla,1991,80310.0,8.99,Híbrido,Asia,43,18/03/2009,Nuevo,27823
+572,Honda,Camaro,2000,40644.0,3.15,Eléctrico,Norteamérica,172,"Oct 29, 2002",Usado,28337
+573,BMW,Focus,2023,48046.0,3.11,Gasolina,Norteamérica,122,,Usado,40981
+574,Hyundai,Model 3,2023,70843.0,7.28,Eléctrico,Asia,103,,Nuevo,26201
+575,Honda,Focus,2007,61714.0,14.11,Híbrido,Europa,116,,Chatarra,32846
+576,BMW,Golf,2019,74390.0,5.74,Híbrido,Sudamérica,118,,Usado,40109
+577,Ford,Civic,2004,81699.0,10.61,Diésel,Europa,50,,Usado,24241
+578,Hyundai,Corolla,2016,95890.0,5.66,Eléctrico,Oceanía,179,03/12/2021,Usado,33404
+579,Hyundai,X5,2023,77885.0,6.86,Híbrido,Norteamérica,121,,Nuevo,47455
+580,Tesla,Camaro,2022,,13.18,Híbrido,África,137,,Chatarra,39213
+581,Volkswagen,Camaro,2013,81934.0,11.75,Diésel,Norteamérica,158,2008-01-19,Nuevo,32849
+582,Chevrolet,Golf,2004,20736.0,4.14,Híbrido,Asia,79,,Chatarra,27756
+583,Hyundai,Golf,2019,51819.0,8.14,Gasolina,África,138,,Nuevo,23956
+584,Toyota,C-Class,2006,75677.0,3.35,Eléctrico,África,109,,Chatarra,20118
+585,BMW,Civic,1994,43709.0,8.77,Diésel,Sudamérica,153,,Chatarra,45096
+586,Hyundai,Model 3,2018,97997.0,10.95,Gasolina,Oceanía,34,,Nuevo,43154
+587,Hyundai,Model 3,1993,125922.0,4.42,Gasolina,Norteamérica,116,,Chatarra,23428
+588,Mercedes,Sentra,1999,,6.47,Eléctrico,Sudamérica,95,,Usado,33376
+589,Toyota,Elantra,2006,73596.0,7.77,Diésel,Oceanía,137,14/11/2008,Usado,31113
+590,Mercedes,Elantra,1999,124721.0,,Híbrido,Europa,138,2018-04-01,Nuevo,41844
+591,Hyundai,Model 3,2006,84460.0,14.92,Diésel,África,91,2005-04-20,Usado,33828
+592,Chevrolet,C-Class,2009,69887.0,3.54,Híbrido,Sudamérica,91,,Chatarra,29771
+593,Toyota,Corolla,2013,61597.0,12.13,Eléctrico,Europa,115,"Jul 07, 2010",Nuevo,24583
+594,Tesla,Model 3,1994,70925.0,,Eléctrico,Norteamérica,84,2018-12-15,Usado,33408
+595,Nissan,Focus,2023,68354.0,7.71,Gasolina,Norteamérica,153,16/08/2012,Nuevo,26518
+596,Hyundai,Model 3,1995,85112.0,12.05,Gasolina,Asia,105,2014-04-01,Chatarra,32206
+597,Hyundai,Focus,1991,84817.0,14.02,Gasolina,Europa,3,15/12/2019,Nuevo,29240
+598,Volkswagen,Golf,2002,80091.0,14.41,Eléctrico,Europa,105,,Usado,26275
+599,Volkswagen,Elantra,2000,93108.0,9.93,Híbrido,Sudamérica,78,"Feb 22, 2006",Nuevo,20272
+600,Mercedes,Sentra,2012,115719.0,7.29,Eléctrico,Oceanía,54,,Nuevo,35141
+601,BMW,Sentra,2005,108486.0,12.45,Eléctrico,África,70,"Oct 03, 2001",Chatarra,30425
+602,Chevrolet,C-Class,2020,35453.0,6.01,Gasolina,Oceanía,124,,Nuevo,47874
+603,BMW,Civic,2000,3382.0,9.77,Diésel,Oceanía,173,28/03/2014,Usado,19676
+604,Nissan,Model 3,2005,108029.0,7.3,Gasolina,África,132,,Usado,36252
+605,Hyundai,Focus,1997,38993.0,10.88,Diésel,Asia,95,15/05/2002,Usado,29173
+606,Chevrolet,C-Class,1993,73257.0,5.88,Híbrido,Oceanía,138,2002-02-12,Nuevo,50997
+607,Toyota,Civic,1993,44896.0,5.3,Híbrido,Asia,101,2012-12-15,Chatarra,35489
+608,Hyundai,Model 3,2014,25940.0,14.02,Híbrido,Asia,92,,Usado,33246
+609,Tesla,Sentra,1992,96243.0,4.22,Gasolina,Europa,73,,Chatarra,29198
+610,Hyundai,Elantra,2021,102774.0,9.07,Gasolina,Norteamérica,49,,Chatarra,22968
+611,Honda,Civic,1992,62704.0,5.65,Gasolina,Norteamérica,104,,Nuevo,33113
+612,Chevrolet,C-Class,2016,2268.0,3.47,Eléctrico,Sudamérica,126,2004-08-01,Nuevo,16176
+613,Honda,Focus,2018,63612.0,3.43,Gasolina,África,116,,Chatarra,16637
+614,Mercedes,Sentra,2021,91754.0,5.1,Eléctrico,África,103,,Chatarra,40124
+615,Volkswagen,Golf,2008,35632.0,13.4,Híbrido,Sudamérica,82,,Usado,12378
+616,Toyota,Elantra,2010,85500.0,6.39,Gasolina,Europa,144,,Nuevo,26804
+617,Hyundai,Model 3,1994,79540.0,14.41,Eléctrico,Norteamérica,67,"Feb 15, 2018",Chatarra,19508
+618,Mercedes,Civic,2007,97378.0,9.98,Híbrido,Asia,151,,Usado,25975
+619,Mercedes,Golf,2017,83587.0,8.24,Híbrido,Norteamérica,79,,Nuevo,31845
+620,Toyota,Focus,2011,50807.0,9.96,Gasolina,Sudamérica,89,,Nuevo,39845
+621,Ford,Elantra,2010,115897.0,9.2,Diésel,Norteamérica,61,,Nuevo,42176
+622,Hyundai,Golf,1995,75244.0,12.11,Diésel,Asia,99,2006-04-02,Usado,20810
+623,Honda,Model 3,1990,79180.0,6.39,Híbrido,Oceanía,159,"Sep 26, 2023",Usado,25340
+624,Chevrolet,Corolla,1994,52001.0,7.24,Diésel,Oceanía,140,,Usado,70525
+625,Honda,Model 3,2001,,13.73,Diésel,África,159,27/10/2014,Usado,27499
+626,Toyota,Sentra,2015,53455.0,14.36,Eléctrico,Sudamérica,140,,Usado,21177
+627,Nissan,Civic,2023,74811.0,13.71,Eléctrico,Europa,75,,Chatarra,100000
+628,Hyundai,X5,2003,131351.0,8.03,Eléctrico,Norteamérica,106,,Chatarra,27558
+629,Tesla,Model 3,2015,38842.0,12.36,Híbrido,Norteamérica,88,27/04/2016,Nuevo,26072
+630,BMW,Camaro,2016,31593.0,8.72,Diésel,Europa,173,,Usado,27656
+631,Chevrolet,X5,1998,124135.0,8.97,Gasolina,Europa,72,,Chatarra,29785
+632,Tesla,X5,2015,73720.0,5.46,Diésel,Oceanía,155,,Chatarra,29715
+633,Tesla,Civic,2011,59927.0,10.09,Híbrido,Asia,155,02/02/2023,Usado,20445
+634,Hyundai,Civic,2019,111197.0,5.23,Eléctrico,Norteamérica,193,,Usado,33693
+635,Nissan,Focus,2006,,6.98,Híbrido,Sudamérica,103,18/02/2022,Usado,31210
+636,Hyundai,Sentra,2015,134780.0,13.26,Eléctrico,Norteamérica,148,11/09/2014,Nuevo,34965
+637,Nissan,Focus,1990,100337.0,5.48,Híbrido,Asia,211,10/03/2000,Chatarra,12855
+638,Ford,Golf,1997,65362.0,3.85,Gasolina,Sudamérica,95,,Usado,31568
+639,Chevrolet,Golf,2004,144719.0,3.83,Eléctrico,Sudamérica,58,,Nuevo,10144
+640,Toyota,Golf,2011,61828.0,14.29,Eléctrico,Sudamérica,44,30/06/2005,Usado,28244
+641,Volkswagen,Corolla,2003,102262.0,9.08,Diésel,Oceanía,148,2022-03-25,Usado,36579
+642,Toyota,Model 3,2015,88978.0,7.91,Híbrido,Asia,44,,Usado,40457
+643,Tesla,C-Class,2017,119052.0,12.73,Diésel,Norteamérica,105,,Chatarra,33344
+644,BMW,Civic,2012,126845.0,13.03,Híbrido,Oceanía,137,,Usado,36753
+645,Ford,C-Class,2003,80960.0,6.99,Gasolina,África,127,,Chatarra,27009
+646,Toyota,Elantra,2013,57397.0,11.32,Diésel,Sudamérica,137,,Chatarra,24908
+647,Toyota,Civic,1991,93799.0,12.25,Eléctrico,Europa,128,2006-05-19,Nuevo,56927
+648,BMW,Civic,2015,,10.86,Gasolina,Asia,171,2015-08-15,Nuevo,38271
+649,BMW,Civic,2003,140401.0,4.82,Híbrido,Sudamérica,81,2022-09-23,Chatarra,18270
+650,Toyota,C-Class,1996,84096.0,13.51,Eléctrico,Asia,92,,Chatarra,12653
+651,Mercedes,Civic,1992,69040.0,9.47,Híbrido,Europa,89,,Usado,25349
+652,Honda,Camaro,2012,85540.0,6.39,Eléctrico,Sudamérica,153,"Jun 30, 2022",Usado,41918
+653,BMW,Corolla,2007,39586.0,8.1,Híbrido,Norteamérica,156,2013-07-09,Chatarra,30487
+654,Honda,Elantra,2004,50851.0,3.45,Eléctrico,Asia,138,,Chatarra,7759
+655,Chevrolet,Model 3,2014,116012.0,,Híbrido,Sudamérica,167,07/01/2002,Usado,28227
+656,Ford,X5,2017,60293.0,12.19,Diésel,Sudamérica,72,,Usado,29975
+657,Mercedes,Camaro,1999,48592.0,3.0,Eléctrico,Asia,186,,Usado,5843
+658,BMW,C-Class,2006,96099.0,8.0,Eléctrico,Europa,180,,Usado,30241
+659,Chevrolet,Sentra,2011,115571.0,9.27,Diésel,Asia,149,"Apr 01, 2005",Nuevo,19866
+660,Nissan,Camaro,2015,101568.0,3.66,Híbrido,África,191,14/05/2023,Usado,11644
+661,Tesla,X5,2014,109881.0,14.68,Eléctrico,Norteamérica,53,2016-03-15,Chatarra,46045
+662,Honda,Golf,2006,57296.0,5.71,Diésel,Europa,99,,Chatarra,19423
+663,Mercedes,X5,2002,37345.0,6.65,Híbrido,Oceanía,90,,Usado,23327
+664,Mercedes,Sentra,2009,125040.0,6.65,Eléctrico,Oceanía,148,2017-07-11,Usado,23194
+665,Ford,Camaro,2014,70319.0,5.76,Eléctrico,Norteamérica,77,,Chatarra,30022
+666,Honda,X5,1993,72475.0,3.02,Híbrido,Norteamérica,150,2006-03-26,Chatarra,47663
+667,Nissan,Model 3,1999,119845.0,11.75,Diésel,Oceanía,174,"Mar 29, 2020",Nuevo,18038
+668,Ford,C-Class,1992,,14.6,Eléctrico,Asia,147,,Chatarra,26931
+669,Mercedes,Camaro,2007,93676.0,,Híbrido,África,131,2012-05-27,Chatarra,31208
+670,Toyota,Camaro,2011,144950.0,10.96,Eléctrico,Sudamérica,80,,Chatarra,21312
+671,Nissan,Sentra,2023,60694.0,11.9,Híbrido,África,86,"Apr 24, 2012",Nuevo,26771
+672,Mercedes,Elantra,1997,,13.18,Eléctrico,Europa,169,"Sep 20, 2021",Chatarra,35944
+673,Hyundai,Golf,2008,81710.0,8.07,Gasolina,África,151,,Usado,22442
+674,Hyundai,Golf,1995,88057.0,6.64,Diésel,Norteamérica,118,,Chatarra,26613
+675,BMW,Elantra,2015,,6.9,Diésel,Sudamérica,103,14/04/2004,Chatarra,25686
+676,Ford,Civic,2023,95235.0,11.55,Gasolina,África,38,"Nov 04, 2000",Nuevo,28961
+677,Mercedes,X5,1995,96148.0,12.8,Híbrido,Sudamérica,77,"May 14, 2023",Usado,32431
+678,BMW,C-Class,2022,112175.0,5.18,Diésel,África,196,,Chatarra,35865
+679,Ford,Civic,2011,69051.0,7.45,Híbrido,Oceanía,68,,Nuevo,49375
+680,Nissan,Sentra,2010,54823.0,13.82,Eléctrico,Sudamérica,127,,Chatarra,3415
+681,Mercedes,Corolla,1995,,12.68,Gasolina,África,160,2000-07-12,Nuevo,28326
+682,Ford,Camaro,1995,21009.0,14.82,Híbrido,Europa,69,2008-12-01,Nuevo,16355
+683,Mercedes,Model 3,1993,,12.05,Híbrido,Sudamérica,127,,Nuevo,26146
+684,Toyota,Golf,2019,,7.72,Diésel,Asia,157,31/07/2002,Usado,38808
+685,Tesla,Focus,2000,,10.09,Eléctrico,Norteamérica,120,,Nuevo,41977
+686,Volkswagen,Golf,2019,71695.0,10.93,Diésel,Sudamérica,234,"Aug 30, 2015",Chatarra,42447
+687,Hyundai,Focus,2020,89222.0,3.94,Eléctrico,Oceanía,53,24/05/2017,Nuevo,42352
+688,Tesla,Sentra,2013,104472.0,9.53,Diésel,Norteamérica,162,,Chatarra,28260
+689,Ford,Focus,1998,105814.0,11.51,Híbrido,África,113,,Usado,43985
+690,Volkswagen,Civic,1992,62507.0,5.01,Híbrido,África,150,"Dec 27, 2015",Usado,45968
+691,Tesla,Sentra,2020,74986.0,12.37,Gasolina,África,137,20/11/2007,Nuevo,31388
+692,Toyota,Camaro,2013,88477.0,10.01,Híbrido,África,90,2013-05-19,Chatarra,41772
+693,Hyundai,Golf,2020,72539.0,14.43,Híbrido,Oceanía,129,29/06/2001,Usado,30412
+694,Chevrolet,Civic,1995,128220.0,,Híbrido,África,45,,Usado,44102
+695,Ford,Elantra,1991,94729.0,,Híbrido,Europa,144,"May 15, 2011",Nuevo,28383
+696,Hyundai,Focus,2009,102046.0,10.22,Gasolina,Norteamérica,131,,Nuevo,23904
+697,Tesla,X5,2017,99886.0,6.56,Eléctrico,Sudamérica,145,"Feb 24, 2015",Nuevo,18800
+698,Chevrolet,Camaro,2000,115204.0,11.57,Gasolina,Europa,162,"Sep 22, 2014",Chatarra,100000
+699,Honda,Model 3,1993,85430.0,12.11,Gasolina,Europa,134,,Nuevo,30843
+700,Hyundai,Corolla,2004,41095.0,,Diésel,Europa,125,,Nuevo,20541
+701,Honda,Elantra,1995,91990.0,9.17,Eléctrico,Europa,84,,Chatarra,27498
+702,Volkswagen,Corolla,2019,60459.0,9.11,Diésel,Europa,91,07/01/2010,Chatarra,24734
+703,Nissan,Elantra,1991,64141.0,7.43,Gasolina,Norteamérica,167,,Nuevo,19230
+704,Mercedes,Golf,2004,97590.0,14.2,Híbrido,Sudamérica,177,15/01/2013,Chatarra,40358
+705,Volkswagen,Model 3,2000,117148.0,12.93,Eléctrico,Norteamérica,110,12/06/2018,Chatarra,42119
+706,Chevrolet,X5,1997,80638.0,11.37,Híbrido,Oceanía,121,,Nuevo,40314
+707,Chevrolet,Elantra,2015,89264.0,11.57,Gasolina,Sudamérica,83,,Chatarra,29158
+708,Hyundai,Focus,1994,131066.0,8.54,Gasolina,Europa,166,,Nuevo,29776
+709,Mercedes,Model 3,1995,87222.0,14.05,Gasolina,Oceanía,146,2016-11-11,Nuevo,19368
+710,Nissan,X5,2015,158050.0,11.34,Eléctrico,Europa,197,,Chatarra,34146
+711,Tesla,Corolla,1993,96965.0,11.75,Diésel,África,84,,Nuevo,31696
+712,BMW,Model 3,2008,27177.0,13.34,Diésel,Asia,104,13/07/2014,Usado,58439
+713,Ford,Focus,2009,102600.0,6.29,Híbrido,Asia,129,,Chatarra,40871
+714,Nissan,Model 3,2022,91434.0,,Eléctrico,Oceanía,145,,Chatarra,33152
+715,Chevrolet,Civic,2009,118692.0,,Híbrido,Norteamérica,111,,Chatarra,29583
+716,BMW,Civic,2001,100195.0,,Híbrido,Norteamérica,85,,Nuevo,40013
+717,Chevrolet,Corolla,1990,75846.0,7.03,Diésel,Sudamérica,155,,Nuevo,20842
+718,Mercedes,Sentra,2015,43271.0,14.74,Eléctrico,África,148,"Nov 30, 2015",Chatarra,41396
+719,Mercedes,Camaro,2003,73729.0,13.28,Gasolina,Sudamérica,83,,Nuevo,19128
+720,Hyundai,Civic,2000,54484.0,11.41,Híbrido,África,174,"Jan 03, 2015",Usado,24384
+721,Tesla,Camaro,2002,62584.0,11.72,Gasolina,Asia,166,29/01/2002,Usado,11618
+722,Toyota,Camaro,1992,97657.0,,Eléctrico,Asia,125,,Usado,36140
+723,Chevrolet,C-Class,2022,130097.0,14.37,Híbrido,África,123,,Chatarra,32499
+724,Tesla,Corolla,1995,91840.0,8.96,Gasolina,Sudamérica,142,"Feb 15, 2014",Nuevo,24385
+725,Honda,Focus,1999,,7.57,Gasolina,Norteamérica,85,,Chatarra,20708
+726,Chevrolet,Corolla,1994,93338.0,4.96,Diésel,Oceanía,121,,Usado,43787
+727,BMW,Sentra,2012,115898.0,12.43,Eléctrico,África,33,,Usado,28663
+728,Tesla,X5,1999,61706.0,11.81,Eléctrico,África,155,2005-02-19,Usado,22327
+729,Nissan,Civic,1991,75979.0,7.61,Eléctrico,África,57,"Nov 06, 2016",Chatarra,49219
+730,Tesla,Golf,2002,80440.0,3.3,Híbrido,Sudamérica,180,2021-04-27,Chatarra,23429
+731,Nissan,C-Class,1991,56453.0,13.07,Diésel,Norteamérica,106,2012-05-13,Usado,41386
+732,Mercedes,Golf,2009,99448.0,3.14,Híbrido,Sudamérica,111,,Usado,18490
+733,Nissan,Elantra,1990,76371.0,11.44,Eléctrico,Europa,94,08/05/2016,Nuevo,26450
+734,Volkswagen,Focus,1998,92585.0,14.64,Híbrido,Europa,108,2018-03-06,Nuevo,35022
+735,Toyota,Sentra,2006,53375.0,8.25,Gasolina,África,176,,Usado,29421
+736,Volkswagen,X5,1998,66876.0,5.82,Híbrido,África,20,,Nuevo,32437
+737,BMW,Sentra,2000,101671.0,11.46,Híbrido,África,171,,Usado,24611
+738,Ford,Focus,2004,68815.0,12.81,Eléctrico,Norteamérica,133,,Usado,14022
+739,BMW,Corolla,2013,131808.0,9.56,Gasolina,Norteamérica,71,2006-11-13,Usado,44655
+740,Hyundai,X5,2019,68010.0,14.6,Eléctrico,África,76,2013-01-10,Nuevo,25221
+741,Chevrolet,Elantra,2020,86740.0,3.62,Gasolina,Norteamérica,187,,Usado,32890
+742,Volkswagen,C-Class,1994,107977.0,9.06,Gasolina,Asia,82,,Usado,37019
+743,BMW,Camaro,2003,37449.0,11.62,Gasolina,África,73,"Sep 16, 2002",Nuevo,33087
+744,Chevrolet,Focus,2000,27175.0,13.35,Eléctrico,Asia,165,,Usado,22914
+745,Chevrolet,Focus,1998,34230.0,5.15,Gasolina,Sudamérica,133,24/11/2012,Nuevo,41597
+746,Chevrolet,Camaro,2023,117877.0,12.6,Diésel,Asia,82,,Usado,35136
+747,Toyota,C-Class,2001,63444.0,9.63,Diésel,Sudamérica,128,"Jan 25, 2019",Nuevo,31987
+748,Ford,Golf,1990,156745.0,7.76,Diésel,Oceanía,78,"Feb 09, 2022",Chatarra,31755
+749,Nissan,Corolla,2011,63072.0,4.58,Diésel,Sudamérica,164,10/03/2012,Usado,46822
+750,BMW,Golf,2018,85536.0,13.38,Eléctrico,África,162,2023-02-16,Nuevo,22699
+751,Hyundai,C-Class,1997,,4.89,Híbrido,África,141,2002-10-04,Chatarra,34152
+752,BMW,X5,2000,140182.0,6.72,Híbrido,Sudamérica,134,,Usado,24713
+753,Nissan,Civic,2003,141845.0,6.48,Diésel,Norteamérica,190,2021-01-18,Nuevo,10636
+754,Mercedes,Sentra,2019,116250.0,13.46,Híbrido,Europa,119,"Sep 13, 2010",Nuevo,10372
+755,Tesla,Elantra,2010,110721.0,11.07,Diésel,Asia,72,"Sep 04, 2007",Chatarra,19853
+756,Chevrolet,Corolla,1994,97775.0,12.56,Diésel,Sudamérica,137,,Usado,23415
+757,Volkswagen,C-Class,2008,103350.0,6.01,Híbrido,Europa,203,"Apr 08, 2000",Nuevo,51729
+758,Volkswagen,Model 3,2003,63464.0,,Híbrido,África,79,,Chatarra,36983
+759,Tesla,X5,2015,55454.0,9.86,Gasolina,África,105,,Chatarra,37883
+760,Hyundai,C-Class,1993,,12.99,Diésel,Oceanía,136,,Nuevo,23629
+761,Volkswagen,Elantra,2014,74894.0,13.87,Híbrido,Oceanía,117,2007-04-19,Usado,30613
+762,Tesla,Civic,2014,66403.0,,Híbrido,Sudamérica,80,,Chatarra,53061
+763,Tesla,Focus,2007,100891.0,,Híbrido,Norteamérica,164,,Usado,17855
+764,Chevrolet,Golf,1997,108659.0,,Gasolina,Sudamérica,212,"Dec 27, 2023",Nuevo,34562
+765,Nissan,Model 3,2003,82652.0,9.59,Diésel,Asia,127,,Nuevo,46112
+766,Nissan,Focus,2021,,6.45,Diésel,Oceanía,83,,Nuevo,39659
+767,Nissan,Golf,2022,45749.0,6.68,Eléctrico,Europa,58,,Nuevo,48015
+768,BMW,Golf,2012,74190.0,7.24,Gasolina,Norteamérica,500,,Chatarra,32128
+769,Ford,Golf,2004,58495.0,10.46,Gasolina,Oceanía,164,,Chatarra,36034
+770,BMW,Golf,2022,24003.0,7.01,Diésel,Sudamérica,139,,Usado,31097
+771,Tesla,Golf,2014,77519.0,11.79,Eléctrico,Asia,119,"May 08, 2003",Usado,35333
+772,Ford,Corolla,2006,76347.0,7.85,Eléctrico,Asia,96,"Sep 07, 2008",Nuevo,20847
+773,Volkswagen,Elantra,2022,125403.0,3.82,Diésel,Norteamérica,76,,Usado,37923
+774,Honda,Camaro,1991,98924.0,12.41,Híbrido,Asia,153,,Nuevo,32942
+775,BMW,Corolla,2003,49274.0,6.43,Gasolina,Asia,156,,Chatarra,30626
+776,BMW,Elantra,1995,135622.0,8.19,Eléctrico,Asia,58,2018-09-04,Chatarra,47463
+777,Chevrolet,Model 3,1995,116631.0,11.23,Híbrido,Asia,183,12/09/2006,Nuevo,27346
+778,Nissan,Sentra,1992,97462.0,6.99,Eléctrico,Sudamérica,142,"Feb 18, 2016",Nuevo,42078
+779,Mercedes,Corolla,1996,,3.68,Híbrido,Oceanía,175,12/01/2023,Chatarra,43072
+780,Volkswagen,Model 3,1997,51216.0,7.49,Híbrido,Oceanía,66,14/01/2010,Usado,38555
+781,Mercedes,Focus,2004,68833.0,14.33,Gasolina,Norteamérica,65,,Usado,20349
+782,Nissan,Model 3,2018,112662.0,10.7,Eléctrico,Europa,114,,Nuevo,33590
+783,Ford,X5,2022,136537.0,11.06,Eléctrico,Europa,140,"Jan 13, 2007",Chatarra,49584
+784,BMW,Focus,2019,126297.0,,Híbrido,Asia,191,2015-02-06,Usado,11814
+785,Nissan,C-Class,2016,65334.0,5.39,Diésel,Oceanía,148,,Usado,28123
+786,BMW,Model 3,2018,46411.0,8.02,Eléctrico,Sudamérica,110,2022-05-12,Chatarra,41623
+787,Tesla,Civic,2022,84226.0,12.01,Gasolina,Asia,78,,Nuevo,28846
+788,Honda,Corolla,2016,26946.0,4.22,Diésel,Asia,169,"Oct 20, 2011",Chatarra,38098
+789,Nissan,Model 3,2022,89695.0,6.33,Eléctrico,Oceanía,81,,Chatarra,44091
+790,Toyota,Golf,1993,75571.0,6.32,Gasolina,Sudamérica,185,29/01/2010,Usado,32320
+791,Volkswagen,Model 3,2011,66018.0,8.18,Diésel,África,108,,Usado,35089
+792,Honda,Civic,1991,32158.0,14.76,Eléctrico,Oceanía,183,"Jul 26, 2001",Usado,30918
+793,Nissan,Camaro,1999,95408.0,3.81,Gasolina,Norteamérica,147,"Jan 05, 2013",Usado,32978
+794,Toyota,Camaro,1994,64018.0,9.22,Diésel,Europa,114,,Chatarra,51026
+795,Toyota,Civic,1999,44902.0,5.15,Eléctrico,Sudamérica,99,16/12/2010,Nuevo,29360
+796,Volkswagen,Civic,2022,-6167.0,14.65,Diésel,Europa,106,31/05/2015,Chatarra,26468
+797,Nissan,Focus,2002,79174.0,4.36,Híbrido,Sudamérica,137,,Nuevo,40417
+798,Honda,Camaro,2020,133167.0,7.84,Híbrido,Oceanía,123,,Nuevo,21570
+799,Chevrolet,Corolla,2013,129837.0,11.85,Diésel,Sudamérica,96,,Usado,23852
+800,Ford,Sentra,2004,66287.0,11.45,Híbrido,África,113,,Chatarra,23916
+801,Toyota,X5,2018,61933.0,8.07,Híbrido,Asia,123,,Usado,27441
+802,Mercedes,Corolla,1997,94063.0,7.16,Diésel,Norteamérica,34,2023-08-13,Nuevo,27878
+803,Nissan,X5,1994,50048.0,7.77,Híbrido,África,138,"Apr 30, 2009",Chatarra,36990
+804,Chevrolet,Corolla,2018,89053.0,6.17,Diésel,Europa,80,,Chatarra,26576
+805,Chevrolet,Model 3,1993,102982.0,5.46,Diésel,Norteamérica,73,,Usado,37394
+806,Chevrolet,Sentra,2001,116807.0,8.8,Híbrido,Asia,52,"Aug 25, 2007",Usado,38641
+807,Tesla,Golf,1991,76995.0,6.22,Eléctrico,Oceanía,48,30/01/2020,Chatarra,23464
+808,Honda,Elantra,2016,73889.0,6.45,Diésel,África,65,21/12/2007,Usado,38427
+809,Toyota,Golf,2020,53660.0,10.88,Diésel,Sudamérica,91,2021-10-09,Usado,39334
+810,Nissan,Camaro,2015,55193.0,14.62,Eléctrico,Europa,198,,Nuevo,12390
+811,Chevrolet,Sentra,2016,73205.0,10.24,Híbrido,África,98,07/09/2000,Chatarra,32934
+812,Ford,Corolla,1994,91020.0,3.92,Gasolina,África,127,,Chatarra,24935
+813,Ford,X5,2009,107407.0,3.91,Eléctrico,Norteamérica,136,,Nuevo,43030
+814,Hyundai,Sentra,2000,55904.0,14.42,Gasolina,Europa,125,2014-06-25,Usado,24833
+815,Chevrolet,Model 3,1999,124780.0,,Híbrido,Europa,116,08/03/2022,Chatarra,16605
+816,Ford,Corolla,1995,71866.0,4.1,Diésel,Europa,72,14/11/2019,Usado,29701
+817,Mercedes,Model 3,1997,79358.0,10.19,Diésel,Norteamérica,178,,Nuevo,21030
+818,Toyota,Sentra,2012,57583.0,10.48,Híbrido,Europa,192,16/08/2017,Usado,38495
+819,Honda,Focus,2015,7272.0,10.78,Híbrido,Norteamérica,52,,Usado,21913
+820,Honda,Model 3,2001,106521.0,6.21,Híbrido,Sudamérica,79,"Aug 12, 2023",Chatarra,29824
+821,Mercedes,Elantra,2015,102105.0,3.18,Híbrido,Norteamérica,108,,Nuevo,45458
+822,Nissan,Elantra,2002,71560.0,14.58,Híbrido,Asia,81,"Mar 12, 2006",Nuevo,40985
+823,Ford,Camaro,2007,82009.0,6.01,Híbrido,Oceanía,140,,Chatarra,34778
+824,BMW,Elantra,2014,95478.0,,Híbrido,Europa,90,,Nuevo,28724
+825,Ford,Model 3,2022,33123.0,11.48,Diésel,Asia,206,"Sep 03, 2000",Usado,33828
+826,Volkswagen,Civic,2001,64128.0,10.32,Gasolina,Asia,167,2006-08-26,Chatarra,36889
+827,Hyundai,Camaro,1993,103827.0,6.75,Gasolina,Sudamérica,128,,Nuevo,20133
+828,Mercedes,Camaro,1994,42371.0,6.25,Diésel,África,161,20/02/2007,Usado,38513
+829,Mercedes,Model 3,1997,88806.0,10.17,Eléctrico,Sudamérica,164,,Chatarra,18983
+830,Mercedes,Golf,2017,39302.0,13.39,Gasolina,Oceanía,97,,Usado,35724
+831,BMW,Sentra,2020,93992.0,14.36,Eléctrico,Norteamérica,87,05/02/2013,Nuevo,18931
+832,Volkswagen,Focus,1998,78930.0,4.27,Diésel,Oceanía,123,,Chatarra,49627
+833,Hyundai,Elantra,2018,31546.0,4.86,Eléctrico,Norteamérica,154,"Aug 17, 2008",Chatarra,37633
+834,Chevrolet,Focus,2003,114942.0,14.34,Diésel,Europa,125,12/04/2015,Usado,14439
+835,Chevrolet,Elantra,2011,57962.0,11.84,Híbrido,Asia,56,,Usado,29990
+836,Nissan,C-Class,2000,55692.0,13.6,Híbrido,Sudamérica,87,"Feb 05, 2021",Nuevo,24785
+837,Mercedes,Civic,2012,86017.0,5.43,Gasolina,África,117,10/11/2020,Chatarra,23602
+838,Hyundai,Golf,1990,114459.0,10.05,Gasolina,Sudamérica,116,2012-07-09,Usado,31471
+839,Nissan,Sentra,2010,49525.0,11.41,Eléctrico,Europa,198,,Chatarra,20720
+840,Mercedes,Model 3,2015,,,Eléctrico,Sudamérica,64,2001-12-07,Nuevo,37614
+841,Mercedes,Focus,2012,92864.0,7.9,Gasolina,África,140,2019-02-27,Nuevo,37046
+842,Toyota,Focus,1990,,3.18,Híbrido,África,179,2014-04-30,Nuevo,33514
+843,Mercedes,Model 3,2004,85293.0,10.0,Diésel,Asia,210,04/10/2015,Nuevo,29804
+844,Ford,Sentra,2010,68989.0,6.04,Híbrido,Asia,103,21/01/2019,Nuevo,36598
+845,BMW,Sentra,1998,55172.0,8.4,Gasolina,Europa,139,,Chatarra,37913
+846,BMW,Camaro,1998,82584.0,14.49,Diésel,Asia,142,20/04/2015,Chatarra,34549
+847,Nissan,C-Class,1999,47835.0,7.79,Eléctrico,Oceanía,127,21/01/2005,Nuevo,16881
+848,Ford,Elantra,2015,-7640.0,13.08,Gasolina,Oceanía,116,"Oct 04, 2018",Usado,22116
+849,Honda,Civic,2014,93096.0,5.26,Híbrido,Norteamérica,137,,Usado,27319
+850,BMW,Camaro,2015,107118.0,11.07,Eléctrico,Asia,18,,Nuevo,15242
+851,Honda,Model 3,2000,9112.0,14.72,Eléctrico,Norteamérica,147,"Jan 30, 2009",Chatarra,32240
+852,Volkswagen,Camaro,1991,49708.0,4.22,Gasolina,Sudamérica,125,"Aug 25, 2018",Chatarra,44110
+853,Ford,Corolla,1996,98574.0,3.1,Híbrido,Norteamérica,111,13/06/2000,Usado,42516
+854,Honda,Model 3,2007,141724.0,8.2,Gasolina,Europa,201,01/05/2019,Usado,37396
+855,Toyota,C-Class,2016,80623.0,4.11,Diésel,África,93,,Chatarra,37277
+856,Hyundai,Elantra,2023,58159.0,11.98,Diésel,Europa,103,,Usado,52152
+857,Chevrolet,Sentra,2016,74513.0,13.97,Eléctrico,Europa,199,,Nuevo,100000
+858,Mercedes,Corolla,2006,121246.0,8.21,Híbrido,Oceanía,86,"Jul 24, 2023",Nuevo,39256
+859,Chevrolet,Focus,2013,60621.0,6.1,Diésel,Europa,97,,Usado,15610
+860,Nissan,Elantra,2014,56024.0,8.21,Diésel,Oceanía,114,,Nuevo,43328
+861,Toyota,Model 3,1996,65517.0,11.68,Diésel,Europa,153,,Usado,33984
+862,BMW,Golf,1995,51400.0,3.11,Diésel,Asia,128,2002-05-17,Chatarra,29202
+863,Nissan,Civic,2013,83680.0,10.07,Gasolina,Oceanía,68,,Nuevo,26723
+864,Nissan,Corolla,2022,128740.0,10.36,Eléctrico,Sudamérica,98,,Usado,24514
+865,Chevrolet,Civic,2018,89692.0,10.65,Eléctrico,África,95,"Jun 11, 2020",Nuevo,42567
+866,Ford,C-Class,2011,,5.9,Diésel,Norteamérica,116,,Nuevo,29716
+867,BMW,Camaro,2015,71245.0,11.57,Eléctrico,Oceanía,137,"Aug 02, 2001",Chatarra,24883
+868,Nissan,Corolla,2017,33104.0,4.1,Eléctrico,Norteamérica,136,2021-01-04,Chatarra,22284
+869,Mercedes,Civic,2010,106493.0,5.39,Eléctrico,Sudamérica,48,,Chatarra,31705
+870,BMW,Focus,1996,77664.0,13.53,Eléctrico,Europa,162,"Sep 16, 2017",Usado,26403
+871,Hyundai,X5,2006,74585.0,11.86,Gasolina,Oceanía,130,2011-05-13,Chatarra,24122
+872,Ford,Model 3,2009,175793.0,3.16,Diésel,Europa,175,,Chatarra,16178
+873,Volkswagen,Model 3,2009,88962.0,5.98,Híbrido,África,137,,Nuevo,39593
+874,BMW,Elantra,2011,57446.0,5.57,Gasolina,Norteamérica,164,28/03/2001,Chatarra,28619
+875,Honda,C-Class,2017,67209.0,,Eléctrico,Europa,138,,Chatarra,19147
+876,Nissan,Corolla,1996,114453.0,5.97,Diésel,Asia,173,,Nuevo,27287
+877,Honda,C-Class,1990,83398.0,3.75,Diésel,África,140,,Nuevo,35491
+878,Ford,Civic,2021,,8.51,Diésel,Asia,116,,Nuevo,30288
+879,Toyota,Camaro,2002,107576.0,11.79,Diésel,Oceanía,210,,Chatarra,31909
+880,Honda,Model 3,2019,59955.0,10.28,Eléctrico,Oceanía,155,24/09/2020,Nuevo,30425
+881,Nissan,Model 3,2012,136198.0,11.07,Diésel,Oceanía,142,,Usado,17231
+882,Mercedes,Camaro,2008,112401.0,3.97,Híbrido,Asia,68,2002-05-30,Chatarra,39485
+883,Mercedes,Focus,2021,66580.0,14.42,Híbrido,Sudamérica,68,,Nuevo,12917
+884,Nissan,C-Class,2019,118430.0,13.06,Diésel,Sudamérica,131,"Aug 29, 2022",Usado,34615
+885,Chevrolet,Civic,2018,82035.0,12.66,Eléctrico,Asia,125,,Chatarra,36155
+886,Ford,Golf,2018,105583.0,12.88,Híbrido,Sudamérica,95,"May 07, 2011",Nuevo,27801
+887,Chevrolet,Model 3,2019,94541.0,14.19,Híbrido,Asia,125,14/03/2003,Nuevo,33534
+888,Nissan,Elantra,2005,54609.0,9.53,Híbrido,Europa,183,"Jul 26, 2008",Chatarra,27228
+889,Hyundai,Model 3,2008,60693.0,5.4,Gasolina,Sudamérica,147,,Chatarra,33654
+890,Nissan,Sentra,2007,110898.0,10.4,Gasolina,Asia,74,,Nuevo,39929
+891,Volkswagen,X5,1990,69956.0,11.91,Híbrido,Oceanía,115,17/08/2009,Nuevo,22078
+892,Volkswagen,Focus,2003,67890.0,11.86,Eléctrico,África,87,2009-03-21,Nuevo,36739
+893,Chevrolet,Corolla,1991,51346.0,9.26,Eléctrico,África,104,"Feb 03, 2020",Chatarra,46923
+894,Chevrolet,Civic,2017,92707.0,,Híbrido,Sudamérica,103,,Nuevo,32645
+895,Ford,Camaro,2019,141875.0,7.45,Híbrido,África,100,"Dec 29, 2013",Usado,24968
+896,Mercedes,Golf,1993,47974.0,14.05,Eléctrico,Norteamérica,69,27/06/2018,Nuevo,52632
+897,Toyota,Elantra,1990,80726.0,10.01,Gasolina,Norteamérica,114,"Mar 21, 2001",Usado,30887
+898,Hyundai,Golf,1997,122366.0,9.46,Gasolina,África,97,04/06/2017,Chatarra,32315
+899,Tesla,Focus,2018,77610.0,6.23,Híbrido,Oceanía,2,"Dec 05, 2009",Nuevo,32523
+900,Mercedes,Sentra,1992,93571.0,7.42,Eléctrico,Asia,202,,Chatarra,34478
+901,Nissan,Sentra,2021,,13.74,Gasolina,África,163,2010-08-11,Nuevo,26611
+902,Toyota,Camaro,1999,92849.0,,Híbrido,Oceanía,104,,Nuevo,31899
+903,Ford,X5,1999,74385.0,12.45,Diésel,África,120,,Nuevo,39521
+904,BMW,C-Class,2008,109571.0,8.45,Híbrido,África,73,,Usado,26265
+905,Mercedes,Sentra,2023,115621.0,10.56,Diésel,Asia,187,2013-09-01,Chatarra,25800
+906,Mercedes,Camaro,2022,157686.0,5.98,Híbrido,Asia,195,2011-01-08,Chatarra,27079
+907,Toyota,X5,2012,97388.0,,Eléctrico,Oceanía,126,2022-09-05,Nuevo,19022
+908,Nissan,Focus,2017,89773.0,,Eléctrico,Norteamérica,160,,Nuevo,23171
+909,Mercedes,Civic,2021,85831.0,8.31,Eléctrico,Sudamérica,127,"Jun 07, 2011",Nuevo,22764
+910,Toyota,Focus,1996,69405.0,10.79,Eléctrico,Norteamérica,66,"Jun 05, 2009",Usado,29994
+911,Honda,Camaro,2018,90154.0,14.24,Diésel,Asia,103,2013-09-20,Usado,38361
+912,Chevrolet,Civic,1997,71137.0,3.77,Híbrido,Asia,125,24/11/2001,Chatarra,44537
+913,Volkswagen,Camaro,1990,85053.0,12.9,Eléctrico,Oceanía,101,,Chatarra,30571
+914,Chevrolet,Focus,1992,119527.0,6.51,Gasolina,Asia,111,,Usado,34564
+915,Nissan,Model 3,2013,49803.0,8.33,Gasolina,Asia,116,,Usado,32433
+916,Honda,Model 3,2012,114196.0,3.26,Gasolina,Asia,116,,Nuevo,9065
+917,Mercedes,Focus,1997,119513.0,6.61,Híbrido,Oceanía,122,,Chatarra,18521
+918,Hyundai,Golf,1992,76457.0,9.03,Gasolina,Oceanía,77,2003-11-11,Chatarra,37612
+919,Chevrolet,Golf,2022,16344.0,3.67,Gasolina,Oceanía,91,2009-07-29,Chatarra,38584
+920,Ford,Sentra,2017,61765.0,8.89,Diésel,Asia,68,,Nuevo,38356
+921,Chevrolet,Sentra,1997,118909.0,14.13,Híbrido,Europa,159,,Usado,28221
+922,Tesla,Civic,2023,,4.26,Híbrido,Europa,35,05/07/2001,Nuevo,10051
+923,Hyundai,Civic,2021,50020.0,12.17,Gasolina,África,166,"Nov 11, 2011",Nuevo,19714
+924,Tesla,Model 3,2013,64856.0,,Híbrido,Europa,175,2002-09-24,Chatarra,21244
+925,Tesla,Golf,2003,105218.0,10.86,Diésel,Norteamérica,107,,Nuevo,36287
+926,Ford,X5,2021,96402.0,6.12,Diésel,África,15,,Usado,26426
+927,Honda,Focus,2005,72832.0,4.91,Eléctrico,Sudamérica,500,,Nuevo,46904
+928,Tesla,X5,1993,68995.0,,Diésel,Oceanía,117,04/02/2011,Nuevo,44676
+929,Hyundai,Civic,2010,68247.0,3.85,Eléctrico,Asia,79,,Usado,46736
+930,Chevrolet,X5,2003,52327.0,5.23,Gasolina,Oceanía,99,,Nuevo,20834
+931,Nissan,Camaro,2020,128461.0,,Eléctrico,Europa,181,,Usado,34908
+932,Hyundai,Corolla,2007,70330.0,13.58,Eléctrico,Oceanía,146,12/01/2015,Nuevo,25224
+933,Volkswagen,Model 3,1996,116514.0,12.77,Gasolina,Norteamérica,83,"Jun 13, 2023",Chatarra,33278
+934,Toyota,Golf,1999,125639.0,11.22,Eléctrico,Oceanía,56,,Usado,21943
+935,Chevrolet,C-Class,1996,109949.0,4.33,Diésel,Sudamérica,106,2006-02-26,Chatarra,42261
+936,Ford,Model 3,2022,67051.0,6.47,Gasolina,Asia,111,,Nuevo,22130
+937,Tesla,Camaro,2012,92111.0,6.72,Híbrido,Asia,139,"May 25, 2017",Usado,10527
+938,Nissan,Golf,2010,79274.0,6.0,Eléctrico,Sudamérica,98,,Nuevo,50337
+939,Tesla,Civic,2008,52888.0,9.18,Diésel,Sudamérica,140,"Feb 04, 2022",Chatarra,34424
+940,Ford,C-Class,2008,89730.0,9.43,Híbrido,Sudamérica,197,,Nuevo,19308
+941,Hyundai,Focus,2018,44628.0,7.28,Gasolina,Oceanía,152,,Nuevo,28377
+942,Volkswagen,Focus,2007,115630.0,7.25,Gasolina,Norteamérica,118,,Nuevo,24231
+943,Toyota,Sentra,1991,66061.0,12.94,Gasolina,África,112,27/12/2011,Chatarra,30057
+944,Volkswagen,Elantra,1990,86034.0,12.47,Diésel,Oceanía,105,,Chatarra,38027
+945,Chevrolet,Camaro,1994,88498.0,,Híbrido,África,167,"Jul 28, 2001",Usado,36457
+946,Hyundai,Golf,2009,72232.0,13.97,Gasolina,Europa,94,"Apr 17, 2015",Nuevo,32537
+947,Toyota,Elantra,2000,97600.0,14.43,Diésel,Asia,121,,Nuevo,30052
+948,BMW,Elantra,1991,65752.0,6.92,Diésel,Oceanía,122,2007-09-11,Usado,40786
+949,Volkswagen,C-Class,1992,106138.0,7.25,Híbrido,Oceanía,99,2022-04-09,Nuevo,10745
+950,Tesla,Focus,2012,39620.0,9.07,Gasolina,Europa,65,,Nuevo,22510
+951,Mercedes,Civic,2001,83791.0,14.29,Gasolina,Oceanía,132,,Nuevo,20213
+952,Chevrolet,Model 3,2009,138167.0,13.52,Eléctrico,África,117,2017-12-24,Nuevo,40062
+953,Chevrolet,Focus,1994,,4.23,Gasolina,Oceanía,140,21/06/2009,Nuevo,22609
+954,Toyota,Camaro,2019,59667.0,7.71,Híbrido,Sudamérica,98,30/09/2016,Chatarra,17140
+955,BMW,Camaro,1998,95417.0,9.64,Diésel,Oceanía,168,,Chatarra,35493
+956,Nissan,Golf,2023,85387.0,9.04,Híbrido,Asia,84,"Jun 16, 2021",Chatarra,20912
+957,Volkswagen,Model 3,2011,90518.0,5.33,Gasolina,África,188,"Jul 22, 2000",Usado,26492
+958,Honda,Civic,2013,94675.0,13.31,Diésel,Asia,50,2007-08-07,Usado,53811
+959,Nissan,Golf,2006,99041.0,11.12,Híbrido,Europa,137,,Chatarra,37871
+960,Chevrolet,C-Class,1999,113290.0,13.05,Gasolina,Oceanía,139,,Usado,27889
+961,Chevrolet,Civic,2019,92294.0,13.31,Gasolina,África,88,,Chatarra,28788
+962,Ford,Civic,2012,72762.0,11.98,Gasolina,Europa,136,"Aug 14, 2004",Nuevo,39074
+963,Toyota,Elantra,2021,100177.0,8.27,Eléctrico,Asia,171,,Nuevo,36628
+964,Mercedes,Golf,2006,136996.0,10.33,Eléctrico,Norteamérica,31,2005-02-03,Nuevo,30755
+965,BMW,Corolla,2006,76020.0,4.92,Eléctrico,Sudamérica,140,04/03/2014,Chatarra,31035
+966,Honda,Focus,2003,50764.0,11.08,Diésel,Europa,20,2001-12-23,Usado,15201
+967,Nissan,Golf,1998,113212.0,5.15,Híbrido,Oceanía,81,2023-11-16,Chatarra,13099
+968,Volkswagen,Civic,1991,76388.0,11.33,Diésel,Asia,185,,Usado,28231
+969,Toyota,Sentra,2014,14819.0,,Diésel,Oceanía,96,,Usado,23667
+970,Volkswagen,Civic,1998,105422.0,4.41,Gasolina,África,73,12/10/2014,Nuevo,35860
+971,Hyundai,Civic,2011,63940.0,4.98,Gasolina,Europa,112,2022-12-31,Nuevo,31971
+972,Ford,Model 3,1993,77284.0,3.02,Diésel,Oceanía,202,2012-12-19,Chatarra,22272
+973,BMW,X5,2015,89959.0,11.62,Híbrido,Asia,46,,Chatarra,31631
+974,Ford,Model 3,2018,85714.0,11.79,Eléctrico,Oceanía,77,,Nuevo,25817
+975,Chevrolet,Golf,2023,101283.0,9.18,Diésel,Norteamérica,179,,Chatarra,50666
+976,Ford,Sentra,2012,66935.0,4.94,Diésel,Europa,194,"Aug 06, 2005",Nuevo,33862
+977,Honda,Focus,2000,95393.0,4.0,Híbrido,Asia,115,,Chatarra,14393
+978,Chevrolet,Sentra,1995,72213.0,3.23,Híbrido,Europa,70,2004-10-15,Usado,48205
+979,Nissan,X5,2007,102164.0,4.99,Diésel,Oceanía,203,,Chatarra,23668
+980,Volkswagen,Golf,2010,98461.0,13.69,Gasolina,Asia,500,,Nuevo,20252
+981,Nissan,Sentra,2023,51936.0,5.9,Gasolina,Sudamérica,147,15/04/2009,Chatarra,51436
+982,Hyundai,Civic,2006,112579.0,7.25,Diésel,Asia,87,"Aug 04, 2007",Usado,33458
+983,Chevrolet,Sentra,2014,,4.26,Gasolina,Asia,118,,Usado,37007
+984,Chevrolet,C-Class,2001,104241.0,5.67,Híbrido,Asia,113,"Mar 25, 2004",Usado,37330
+985,BMW,Golf,2012,91018.0,9.23,Eléctrico,África,133,2002-12-06,Nuevo,27940
+986,Chevrolet,Focus,2011,,10.29,Híbrido,Asia,178,2017-11-09,Chatarra,24275
+987,Volkswagen,Golf,2010,73296.0,5.94,Eléctrico,Sudamérica,155,,Nuevo,25907
+988,Honda,Civic,2016,69520.0,3.69,Diésel,Norteamérica,76,2013-11-01,Nuevo,46088
+989,Hyundai,C-Class,2020,,,Diésel,Sudamérica,175,,Nuevo,32037
+990,BMW,C-Class,1995,70904.0,5.81,Eléctrico,Norteamérica,132,12/09/2019,Chatarra,43129
+991,Mercedes,Civic,2016,103998.0,5.63,Gasolina,Oceanía,147,2016-01-08,Nuevo,29235
+992,Volkswagen,Civic,2023,31510.0,14.52,Diésel,África,178,09/04/2018,Chatarra,22446
+993,Honda,C-Class,2001,48389.0,10.4,Eléctrico,África,75,,Usado,15577
+994,Ford,C-Class,1996,47965.0,9.68,Gasolina,África,118,"Sep 15, 2002",Chatarra,36480
+995,Nissan,Model 3,1999,108509.0,7.99,Eléctrico,Norteamérica,98,,Chatarra,46940
+996,Hyundai,C-Class,2006,131318.0,8.15,Diésel,Sudamérica,57,2004-11-24,Nuevo,21140
+997,Tesla,Corolla,2015,76866.0,9.49,Diésel,Europa,133,,Usado,35133
+998,Volkswagen,Corolla,2010,74935.0,11.36,Híbrido,África,220,,Chatarra,16243
+999,Nissan,Focus,2017,82101.0,11.43,Eléctrico,Norteamérica,46,,Chatarra,24443
+1000,Toyota,Corolla,1991,,5.06,Gasolina,Oceanía,118,"Mar 21, 2018",Nuevo,32679
