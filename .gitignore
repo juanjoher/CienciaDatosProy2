@@ -1,0 +1,34 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos de Jupyter temporales
+.ipynb_checkpoints/
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de log y backups
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Archivos generados por herramientas
+*.egg-info/
+dist/
+build/
+
+# Archivos de configuración de Jupyter
+*.nbconvert.ipynb
